@@ -8,6 +8,26 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     background: transparent;
 }
 
+@font-face {
+    font-family: 'F1reg';
+    src: url(fonts/Formula1-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'F1bold';
+    src: url(fonts/Formula1-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'F1black';
+    src: url(fonts/Formula1-Black.ttf);
+}
+
+@font-face {
+    font-family: 'F1wide';
+    src: url(fonts/Formula1-Wide.ttf);
+}
+
 body {
     background: whitesmoke;
 }
@@ -31,7 +51,7 @@ img {
 
 h1 {
     color: #ed2a26;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'F1bold', sans-serif;
     font-weight: 400px;
     font-size: 40px;
 }
@@ -53,13 +73,13 @@ h2 {
 
 table {
     border-collapse: collapse;
-    font-family: monospace;
+    font-family: 'F1reg';
     font-size: 15px;
 }
 
 caption {
     padding: 40px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'F1reg';
     font-weight: bold;
     font-size: 25px;
 }
@@ -68,4 +88,8 @@ td, tr, th {
     border: 1px solid #555;
     padding: 10px;
     text-align: left;
+}
+
+th {
+    font-family: 'F1bold';
 }
