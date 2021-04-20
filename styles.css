@@ -34,13 +34,14 @@ body {
 }
 
 nav {
-    background-color: #111;
-    padding: 30px;
+    background-color: #ee0000;
+    padding: 2rem;
     width: 100%;
-    height: 40px;
+    height: 2.5rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    border-bottom: 2px solid #111;
 }
 
 img {
@@ -50,10 +51,15 @@ img {
 }
 
 h1 {
-    color: #ed2a26;
-    font-family: 'F1bold', sans-serif;
-    font-weight: 400px;
-    font-size: 40px;
+    color: #fff;
+    font-family: 'F1wide', sans-serif;
+    font-size: 2.5rem;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    padding: 4.5rem;
 }
 
 .tables {
@@ -63,38 +69,40 @@ h1 {
 }
 
 .champ {
-    padding: 75px;
+    padding: 0px 4.5rem 4.5rem 1.5rem;
 }
 
 table {
     border-collapse: collapse;
-    border-bottom: 2px solid #c52421;
+    border-bottom: 3px solid #ee0000;
     font-family: 'F1reg', sans-serif;
-    font-size: 18px;
+    font-size: 1.05rem;
     font-weight: bold;
-    width: 750px;
+    width: 45rem;
 }
 
-caption {
-    padding: 40px;
+.caption {
+    padding: 1rem;
     color: #ddd;
+    border: 3px solid #ee0000;
+    border-radius: 1.5rem;
     font-family: 'F1bold', sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 1.875rem;
+    text-align: center;
+    margin-bottom: 1.25rem;
 }
 
 td, tr, th {
-    border-radius: 10px;
-    padding: 15px;
+    padding: 1rem;
     text-align: left;
 }
 
 th {
     font-family: 'F1bold', sans-serif;
-    font-size: 22px;
-    border-top: 2px solid #c52421;
-    border-bottom: 2px solid #c52421;
-    padding-bottom: 15px;
+    font-size: 1.375rem;
+    border-bottom: 3px solid #ee0000;
+    padding-bottom: 1rem;
 }
 
 tbody tr:nth-child(even) {
