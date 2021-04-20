@@ -31,6 +31,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 body {
     background: black;
     color: #ddd;
+    font-family: 'F1reg', sans-serif;
+    font-size: 1rem;
 }
 
 nav {
@@ -107,3 +109,11 @@ th {
 
 tbody tr:nth-child(even) {
     background: #111;
+}
+
+.redir {
+    display: flex;
+    justify-content: center;
+    font-size: 1.25rem;
+    padding: 3rem;
+}

@@ -145,7 +145,7 @@ var tabledata=`
 </tr>
 <tr>
 	<td>5</td>
-	<td>Alpha Tauri Honda</td>
+	<td>AlphaTauri Honda</td>
 	<td>8</td>
 </tr>
 <tr>
