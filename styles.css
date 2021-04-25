@@ -52,6 +52,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    overflow-wrap: anywhere;
     /*border-bottom: 2px solid #111;*/
 }
 
@@ -64,19 +65,24 @@ img {
 h1 {
     color: #fff;
     font-family: 'F1wide', sans-serif;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-style: italic;
 }
 
 .logo {
     display: flex;
     justify-content: center;
-    padding: 4.5rem;
+    padding-top: 4.5rem;
 }
 
 .tables {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+}
+
+.tabdiv {
+    padding: 4.5rem 0;
 }
 
 table {
