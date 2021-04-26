@@ -120,7 +120,7 @@ var tabledata=`
 	<td>0</td>
 </tr>
 `;
-document.getElementById('drivers').innerHTML+=tabledata;
+document.getElementById('f1-drivers').innerHTML+=tabledata;
 
 var tabledata=`
 <tr>
@@ -175,4 +175,4 @@ var tabledata=`
 </tr>
 
 `;
-document.getElementById('constructors').innerHTML+=tabledata;
+document.getElementById('f1-constructors').innerHTML+=tabledata;
