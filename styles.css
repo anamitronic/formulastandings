@@ -36,6 +36,9 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     --bcol: #0090d0;
 }
 
+.f3 {
+    --bcol: #e90300;
+}
 body {
     background: #000;
     color: #ddd;
