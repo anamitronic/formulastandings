@@ -28,20 +28,33 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     src: url(fonts/Formula1-Wide.ttf);
 }
 
+.f1 {
+    --bcol: #ee0000;
+}
+
+.f2 {
+    --bcol: #0090d0;
+}
+
+.f3 {
+    --bcol: #e90300;
+}
 body {
-    background: black;
+    background: #000;
     color: #ddd;
+    font-family: 'F1reg', sans-serif;
+    font-size: 1rem;
+    overflow-x: hidden;
 }
 
 nav {
-    background-color: #ee0000;
-    padding: 2rem;
+    background-color: #111;
     width: 100%;
-    height: 2.5rem;
+    height: 6.5rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    border-bottom: 2px solid #111;
+    overflow-wrap: anywhere;
 }
 
 img {
@@ -53,30 +66,32 @@ img {
 h1 {
     color: #fff;
     font-family: 'F1wide', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.25rem;
+    font-style: italic;
+    padding: 2rem;
 }
 
 .logo {
     display: flex;
     justify-content: center;
-    padding: 4.5rem;
+    padding-top: 4.5rem;
 }
 
 .tables {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
 
-.champ {
-    padding: 0px 4.5rem 4.5rem 1.5rem;
+.tabdiv {
+    padding-top: 4.5rem;
 }
 
 table {
     border-collapse: collapse;
-    border-bottom: 3px solid #ee0000;
+    border-bottom: 3px solid var(--bcol);
     font-family: 'F1reg', sans-serif;
-    font-size: 1.05rem;
+    font-size: 1.15rem;
     font-weight: bold;
     width: 45rem;
 }
@@ -84,7 +99,7 @@ table {
 .caption {
     padding: 1rem;
     color: #ddd;
-    border: 3px solid #ee0000;
+    border: 3px solid var(--bcol);
     border-radius: 1.5rem;
     font-family: 'F1bold', sans-serif;
     font-weight: bold;
@@ -101,9 +116,17 @@ td, tr, th {
 th {
     font-family: 'F1bold', sans-serif;
     font-size: 1.375rem;
-    border-bottom: 3px solid #ee0000;
+    border-bottom: 3px solid var(--bcol);
     padding-bottom: 1rem;
 }
 
 tbody tr:nth-child(even) {
     background: #111;
+}
+
+.redir {
+    display: flex;
+    justify-content: center;
+    font-size: 1.25rem;
+    padding: 7.5rem;
+}
