@@ -123,7 +123,7 @@ var tabledata=`<table border="1" class="dataframe">
   </tbody>
 </table>
 `;
-document.getElementById('drivers').innerHTML+=tabledata;
+document.getElementById('f1-drivers').innerHTML+=tabledata;
 var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
@@ -179,4 +179,4 @@ var tabledata=`<table border="1" class="dataframe">
   </tbody>
 </table>
 `;
-document.getElementById('constructors').innerHTML+=tabledata;
+document.getElementById('f1-constructors').innerHTML+=tabledata;

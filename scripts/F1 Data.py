@@ -4,9 +4,9 @@ import sys
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-import sqlite3
-from sqlite3 import Error
 from datetime import date
+
+InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+date.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
 
 path = "https://www.formula1.com/en/results.html/"+date.today().strftime('%Y')+"/drivers.html"
    
@@ -44,7 +44,9 @@ dataFrame.drop('',inplace=True,axis=1)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,[0,1,3,4]]
 htmlTable = dfTable.to_html(index=False,header=False)
-jsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('drivers').innerHTML+=tabledata;"
+if dfTable.empty:
+    htmlTable=InactiveMsg
+jsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-drivers').innerHTML+=tabledata;"
 
 
 # TEAM STANDINGS
@@ -85,10 +87,12 @@ dataFrame.drop('',inplace=True,axis=1)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,:]
 htmlTable = dfTable.to_html(index=False,header=False)
-jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('constructors').innerHTML+=tabledata;"
+if dfTable.empty:
+    htmlTable=InactiveMsg
+jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-constructors').innerHTML+=tabledata;"
 
 
-f = open("scripts/standingData.js", "w")
+f = open("./scripts/f1standingData.js", "w")
 f.write(jsData)
 f.close()
 #close the connection to the database.
