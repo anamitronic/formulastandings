@@ -130,3 +130,7 @@ tbody tr:nth-child(even) {
     font-size: 1.25rem;
     padding: 7.5rem;
 }
+
+.redir a {
+    color: var(--bcol);
+}
