@@ -29,9 +29,9 @@ jobs:
           pip install -r ./scripts/py/requirements.txt
       - name: execute py script # run py scripts to get the latest data
         run: |
-          python ./scripts/py/F1 Data.py
-          python ./scripts/py/F2 Data.py
-          python ./scripts/py/F3 Data.py
+          python ./scripts/py/F1-Data.py
+          python ./scripts/py/F2-Data.py
+          python ./scripts/py/F3-Data.py
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
