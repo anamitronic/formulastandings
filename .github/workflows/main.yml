@@ -32,6 +32,12 @@ jobs:
           python ./scripts/py/F1-Data.py
           python ./scripts/py/F2-Data.py
           python ./scripts/py/F3-Data.py
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update table data" -a
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
