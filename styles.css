@@ -76,7 +76,7 @@ nav {
     flex-wrap: wrap;
 }
 
-img {
+.logoimg {
     display: block;
     margin: 0px;
     align-self: center;
@@ -165,7 +165,6 @@ tbody tr:nth-child(even) {
 }
 
 footer {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     padding: 3em;
 }
