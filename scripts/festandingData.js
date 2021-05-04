@@ -32,13 +32,13 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>6</td>
-      <td>René Rast</td>
+      <td>RenÃ© Rast</td>
       <td>Audi Sport ABT Schaeffler</td>
       <td>39</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Jean-Éric Vergne</td>
+      <td>Jean-Ã‰ric Vergne</td>
       <td>DS TECHEETAH</td>
       <td>33</td>
     </tr>
@@ -80,7 +80,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>14</td>
-      <td>António Félix Da Costa</td>
+      <td>AntÃ³nio FÃ©lix Da Costa</td>
       <td>DS TECHEETAH</td>
       <td>24</td>
     </tr>
@@ -92,7 +92,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>16</td>
-      <td>André Lotterer</td>
+      <td>AndrÃ© Lotterer</td>
       <td>TAG Heuer Porsche Formula E Team</td>
       <td>18</td>
     </tr>
@@ -116,7 +116,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>20</td>
-      <td>Sérgio Sette Câmara</td>
+      <td>SÃ©rgio Sette CÃ¢mara</td>
       <td>DRAGON / PENSKE AUTOSPORT</td>
       <td>12</td>
     </tr>
@@ -128,7 +128,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>22</td>
-      <td>Sébastien Buemi</td>
+      <td>SÃ©bastien Buemi</td>
       <td>Nissan e.Dams</td>
       <td>11</td>
     </tr>
