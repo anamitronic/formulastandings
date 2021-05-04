@@ -4,11 +4,11 @@ import sys
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from datetime import date
+from datetime import datetime
 
-InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+date.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
+InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
 
-path = "https://www.formula1.com/en/results.html/"+date.today().strftime('%Y')+"/drivers.html"
+path = "https://www.formula1.com/en/results.html/"+datetime.today().strftime('%Y')+"/drivers.html"
    
 # empty list
 data = []
@@ -43,6 +43,7 @@ dataFrame = pd.DataFrame(data = data, columns = list_header)
 dataFrame.drop('',inplace=True,axis=1)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,[0,1,3,4]]
+print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 if dfTable.empty:
     htmlTable=InactiveMsg
@@ -51,7 +52,7 @@ jsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-drivers').
 
 # TEAM STANDINGS
 
-path = "https://www.formula1.com/en/results.html/"+date.today().strftime('%Y')+"/team.html"
+path = "https://www.formula1.com/en/results.html/"+datetime.today().strftime('%Y')+"/team.html"
    
 # empty list
 data = []
@@ -86,11 +87,15 @@ dataFrame = pd.DataFrame(data = data, columns = list_header)
 dataFrame.drop('',inplace=True,axis=1)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,:]
+print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 if dfTable.empty:
     htmlTable=InactiveMsg
 jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-constructors').innerHTML+=tabledata;"
 
+#add last updated
+curDateTime=datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+jsData+="\ndocument.getElementById('lastup').innerHTML='"+curDateTime+"';"
 
 f = open("./scripts/f1standingData.js", "w")
 f.write(jsData)
