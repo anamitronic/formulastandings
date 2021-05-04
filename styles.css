@@ -83,7 +83,8 @@ h1 {
 
 .logo {
     padding: 3em;
-    border: 0.5em solid #fff;
+    margin: 2em;
+    border: 0.2em solid #fff;
     border-radius: 1.5rem;
 }
 
@@ -155,4 +156,6 @@ footer {
     padding: 4.5rem;
     display: flex;
     justify-content: space-evenly;
+    align-content: space-between;
+    flex-wrap: wrap;
 }
