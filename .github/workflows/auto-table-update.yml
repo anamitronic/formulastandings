@@ -1,0 +1,39 @@
+name: Formula 1-2-3 auto-update
+
+on:
+  schedule:
+    - cron: '*/30 * * * mon,sun'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: get directory structure
+        run: tree
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./scripts/py/requirements.txt
+      - name: execute py script # run py scripts to get the latest data
+        run: |
+          python ./scripts/py/F1-Data.py
+          python ./scripts/py/F2-Data.py
+          python ./scripts/py/F3-Data.py
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update table data" -a
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
