@@ -26,6 +26,7 @@ jobs:
           python ./scripts/py/F1-Data.py
           python ./scripts/py/F2-Data.py
           python ./scripts/py/F3-Data.py
+          python ./scripts/py/FE-Data.py
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
