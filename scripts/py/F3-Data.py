@@ -4,9 +4,9 @@ import sys
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from datetime import date
+from datetime import datetime
 
-InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+date.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
+InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
 
 path = "https://www.fiaformula3.com/Standings/Driver"
    
@@ -63,6 +63,7 @@ teamdataFrame = pd.DataFrame(data = data, columns = list_header)
 merged_df = dataFrame.merge(teamdataFrame, how = 'inner', on = ['name'])
 merged_df.reset_index(drop=True, inplace=True)
 dfTable = merged_df.iloc[:,[0,1,3,2]]
+print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 if dfTable.empty:
     htmlTable=InactiveMsg
@@ -98,6 +99,7 @@ for element in HTML_data:
 dataFrame = pd.DataFrame(data = data, columns = list_header)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,:]
+print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 if dfTable.empty:
     htmlTable=InactiveMsg
