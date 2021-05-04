@@ -1,1 +1,1 @@
-# formulastandings
+# https://zigzagoog.github.io/formulastandings
