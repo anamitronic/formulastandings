@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="favicon.ico">
     
     <link rel='stylesheet' href='styles.css'>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <body>
@@ -20,212 +20,219 @@
         <h1>FORMULA STANDINGS</h1>
     </nav>
 
-
-    <div class='f1'>
-
+    <div class='selectors'>
         <section class='logo'>
             <img src='assets/f1-logo.png' width='250px'>
         </section>
-
-        <section class='tables'>
-
-            <div class='tabdiv'>
-                <p class='caption'> Driver's Championship </p>
-                <table id="f1-drivers" class='f1table'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Driver </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-            </div>
-
-            <div class='tabdiv'>
-                <p class='caption'> Constructor's Championship </p>
-                <table id="f1-constructors" class='f1table'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-
-            </div>
-
-        </section>
-
-        <section class='redir'>
-            <p> For more Formula 1 content, visit 
-                <a href='https://www.formula1.com' target='_blank' 
-                style='color: var(--bcol)'> Formula1.com</a>
-            </p>
-        </section>
-    </div>
-
-    <div class='f2'>
-
         <section class='logo'>
             <img src='assets/f2-logo.png' width='225px'>
         </section>
-
-        <section class='tables f2tables'>
-
-            <div class='tabdiv'>
-                <p class='caption'> Driver's Championship </p>
-                <table id="f2-drivers" class='f2table'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Driver </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-            </div>
-
-            <div class='tabdiv'>
-                <p class='caption'> Constructor's Championship </p>
-                <table id="f2-constructors" class='f2table'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-
-            </div>
-
-        </section>
-
-        <section class='redir'>
-            <p> For more Formula 2 content, visit 
-                <a href='https://www.fiaformula2.com' target='_blank' 
-                style='color: var(--bcol)'> FIAFormula2.com</a>
-            </p>
-        </section>
-    </div>
-
-    <div class='f3'>
-
         <section class='logo'>
             <img src='assets/f3logo.png' width='225px'>
         </section>
-
-        <section class='tables f3tables'>
-
-            <div class='tabdiv'>
-                <p class='caption'> Driver's Championship </p>
-                <table id="f3-drivers" class='f3table'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Driver </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-            </div>
-
-            <div class='tabdiv'>
-                <p class='caption'> Constructor's Championship </p>
-                <table id="f3-constructors" class='f3table'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-
-            </div>
-
-        </section>
-
-        <section class='redir'>
-            <p> For more Formula 3 content, visit 
-                <a href='https://www.fiaformula3.com' target='_blank' 
-                style='color: var(--bcol)'> FIAFormula3.com</a>
-            </p>
-        </section>
-    </div>
-
-    <div class='fe'>
-
         <section class='logo'>
             <img src='assets/felogo.png' width='225px'>
         </section>
-
-        <section class='tables fetables'>
-
-            <div class='tabdiv'>
-                <p class='caption'> Driver's Championship </p>
-                <table id="fe-drivers" class='fetable'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Driver </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-            </div>
-
-            <div class='tabdiv'>
-                <p class='caption'> Constructor's Championship </p>
-                <table id="fe-constructors" class='fetable'>
-                    
-                    <thead>
-                        <tr> 
-                            <th> Pos </th>
-                            <th> Team </th>
-                            <th> Points </th>
-                        </tr>
-                    </thead>
-
-                </table>
-
-            </div>
-
-        </section>
-
-        <section class='redir'>
-            <p> For more Formula E content, visit 
-                <a href='https://www.fiaformulae.com' target='_blank' 
-                style='color: var(--bcol)'> FIAFormulaE.com</a>
-            </p>
-        </section>
     </div>
+    
+            <div class='f1'>
+
+                
+
+                <section class='tables'>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Driver's Championship </p>
+                        <table id="f1-drivers" class='f1table'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Driver </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+                    </div>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Constructor's Championship </p>
+                        <table id="f1-constructors" class='f1table'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+
+                    </div>
+
+                </section>
+
+                <section class='redir'>
+                    <p> For more Formula 1 content, visit 
+                        <a href='https://www.formula1.com' target='_blank' 
+                        style='color: var(--bcol)'> Formula1.com</a>
+                    </p>
+                </section>
+            </div>
+
+            <div class='f2'>
+
+                
+
+                <section class='tables f2tables'>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Driver's Championship </p>
+                        <table id="f2-drivers" class='f2table'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Driver </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+                    </div>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Constructor's Championship </p>
+                        <table id="f2-constructors" class='f2table'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+
+                    </div>
+
+                </section>
+
+                <section class='redir'>
+                    <p> For more Formula 2 content, visit 
+                        <a href='https://www.fiaformula2.com' target='_blank' 
+                        style='color: var(--bcol)'> FIAFormula2.com</a>
+                    </p>
+                </section>
+            </div>
+
+            <div class='f3'>
+
+                
+
+                <section class='tables f3tables'>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Driver's Championship </p>
+                        <table id="f3-drivers" class='f3table'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Driver </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+                    </div>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Constructor's Championship </p>
+                        <table id="f3-constructors" class='f3table'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+
+                    </div>
+
+                </section>
+
+                <section class='redir'>
+                    <p> For more Formula 3 content, visit 
+                        <a href='https://www.fiaformula3.com' target='_blank' 
+                        style='color: var(--bcol)'> FIAFormula3.com</a>
+                    </p>
+                </section>
+            </div>
+
+            <div class='fe'>
+
+                
+
+                <section class='tables fetables'>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Driver's Championship </p>
+                        <table id="fe-drivers" class='fetable'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Driver </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+                    </div>
+
+                    <div class='tabdiv'>
+                        <p class='caption'> Constructor's Championship </p>
+                        <table id="fe-constructors" class='fetable'>
+                            
+                            <thead>
+                                <tr> 
+                                    <th> Pos </th>
+                                    <th> Team </th>
+                                    <th> Points </th>
+                                </tr>
+                            </thead>
+
+                        </table>
+
+                    </div>
+
+                </section>
+
+                <section class='redir'>
+                    <p> For more Formula E content, visit 
+                        <a href='https://www.fiaformulae.com' target='_blank' 
+                        style='color: var(--bcol)'> FIAFormulaE.com</a>
+                    </p>
+                </section>
+            </div>
+
 
     <footer>
         <p> Last Updated: <span id='lastup'> DD/MM/YYYY </span></p>
     </footer>
 
-
+    <script type="text/javascript" src="scripts/slider.js"></script>
     <script src="scripts/f1standingData.js"></script>
     <script src="scripts/f2standingData.js"></script>
     <script src="scripts/f3standingData.js"></script>

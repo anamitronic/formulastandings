@@ -82,9 +82,9 @@ h1 {
 }
 
 .logo {
-    display: flex;
-    justify-content: center;
-    padding-top: 4.5rem;
+    padding: 3em;
+    border: 0.5em solid #fff;
+    border-radius: 1.5rem;
 }
 
 .tables {
@@ -149,4 +149,10 @@ footer {
     display: flex;
     justify-content: center;
     padding: 3em;
+}
+
+.selectors {
+    padding: 4.5rem;
+    display: flex;
+    justify-content: space-evenly;
 }
