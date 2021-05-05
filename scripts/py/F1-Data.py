@@ -60,7 +60,7 @@ data = []
 # for getting the header from
 # the HTML file
 list_header = []
-soup = BeautifulSoup(requests.get(path).text,'html.parser')
+soup = BeautifulSoup(requests.get(path).content,'html.parser')
 header = soup.find_all("table")[0].find("tr")
   
 for items in header:
