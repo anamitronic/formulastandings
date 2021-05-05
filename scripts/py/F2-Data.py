@@ -18,7 +18,7 @@ data = []
 # for getting the header from
 # the HTML file
 list_header = ["pos","name","points"]
-soup = BeautifulSoup(requests.get(path).text,'html.parser')
+soup = BeautifulSoup(requests.get(path).content,'html.parser')
  
 # for getting the data 
 HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
