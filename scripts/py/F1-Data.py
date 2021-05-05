@@ -95,7 +95,7 @@ jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-constru
 
 #add last updated
 curDateTime=datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-jsData+="\ndocument.getElementById('lastup').innerHTML='"+curDateTime+"';"
+jsData+="\ndocument.getElementById('lastup').innerHTML='"+curDateTime+" UTC';"
 
 f = open("./scripts/f1standingData.js", "w")
 f.write(jsData)

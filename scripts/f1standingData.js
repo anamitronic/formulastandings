@@ -80,7 +80,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>14</td>
-      <td>Kimi Räikkönen RAI</td>
+      <td>Kimi RÃ¤ikkÃ¶nen RAI</td>
       <td>Alfa Romeo Racing Ferrari</td>
       <td>0</td>
     </tr>
@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='04/05/2021 14:36:16';
+document.getElementById('lastup').innerHTML='04/05/2021 10:46:41 UTC';
