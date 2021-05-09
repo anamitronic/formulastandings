@@ -56,14 +56,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>10</td>
-      <td>J. Doohan</td>
-      <td>Trident</td>
+      <td>D. Hauger</td>
+      <td>PREMA Racing</td>
       <td>3</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>D. Hauger</td>
-      <td>PREMA Racing</td>
+      <td>J. Doohan</td>
+      <td>Trident</td>
       <td>3</td>
     </tr>
     <tr>
@@ -74,20 +74,20 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>13</td>
-      <td>J. Correa</td>
-      <td>ART Grand Prix</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>14</td>
       <td>M. Nannini</td>
       <td>HWA RACELAB</td>
       <td>1</td>
     </tr>
     <tr>
+      <td>14</td>
+      <td>J. Correa</td>
+      <td>ART Grand Prix</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>15</td>
-      <td>C. Williams</td>
-      <td>Jenzer Motorsport</td>
+      <td>R. Stanek</td>
+      <td>Hitech Grand Prix</td>
       <td>0</td>
     </tr>
     <tr>
@@ -98,8 +98,8 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>17</td>
-      <td>R. Stanek</td>
-      <td>Hitech Grand Prix</td>
+      <td>C. Williams</td>
+      <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
@@ -116,68 +116,68 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>20</td>
+      <td>A. Leclerc</td>
+      <td>PREMA Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>P. Chovet</td>
       <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>T. van der Helm</td>
       <td>MP Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>A. Cordeel</td>
       <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>K. Frederick</td>
-      <td>Carlin Buzz Racing</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <td>24</td>
-      <td>R. Villagómez</td>
-      <td>HWA RACELAB</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>25</td>
       <td>O. Rasmussen</td>
       <td>HWA RACELAB</td>
       <td>0</td>
     </tr>
     <tr>
+      <td>25</td>
+      <td>K. Frederick</td>
+      <td>Carlin Buzz Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
       <td>26</td>
+      <td>R. Villagómez</td>
+      <td>HWA RACELAB</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>I. Cohen</td>
       <td>Carlin Buzz Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>F. Ugran</td>
       <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>L. Colombo</td>
       <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>L. Tóth</td>
       <td>Campos Racing</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>A. Leclerc</td>
-      <td>PREMA Racing</td>
       <td>0</td>
     </tr>
   </tbody>
