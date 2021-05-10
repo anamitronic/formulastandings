@@ -20,7 +20,7 @@ jobs:
       - name: install python packages
         uses: nick-invision/retry@v2
         with:
-          timeout_seconds: 15
+          timeout_seconds: 60
           max_attempts: 5
           retry_on: error
           command: |
@@ -29,7 +29,7 @@ jobs:
       - name: execute F1 py script # run py scripts to get the latest data
         uses: nick-invision/retry@v2
         with:
-          timeout_seconds: 15
+          timeout_seconds: 60
           max_attempts: 5
           retry_on: error
           command: |
