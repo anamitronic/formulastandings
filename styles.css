@@ -91,6 +91,10 @@ nav {
     cursor: pointer;
 }
 
+.logo:hover {
+    background-color: #111;
+}
+
 h1 {
     color: #fff;
     font-family: 'F1wide', sans-serif;
