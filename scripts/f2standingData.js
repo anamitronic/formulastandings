@@ -10,55 +10,55 @@ var tabledata=`<table border="1" class="dataframe">
       <td>2</td>
       <td>O. Piastri</td>
       <td>PREMA Racing</td>
-      <td>55</td>
+      <td>73</td>
     </tr>
     <tr>
       <td>3</td>
+      <td>R. Shwartzman</td>
+      <td>PREMA Racing</td>
+      <td>66</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>J. Vips</td>
+      <td>Hitech Grand Prix</td>
+      <td>63</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>D. Ticktum</td>
+      <td>Carlin</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>T. Pourchaire</td>
       <td>ART Grand Prix</td>
       <td>55</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>D. Ticktum</td>
-      <td>Carlin</td>
-      <td>54</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>R. Shwartzman</td>
-      <td>PREMA Racing</td>
-      <td>51</td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>7</td>
       <td>J. Daruvala</td>
       <td>Carlin</td>
-      <td>47</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>J. Vips</td>
-      <td>Hitech Grand Prix</td>
-      <td>38</td>
+      <td>53</td>
     </tr>
     <tr>
       <td>8</td>
       <td>L. Lawson</td>
       <td>Hitech Grand Prix</td>
-      <td>38</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>9</td>
       <td>F. Drugovich</td>
       <td>UNI-Virtuosi</td>
-      <td>29</td>
+      <td>41</td>
     </tr>
     <tr>
       <td>10</td>
       <td>R. Boschung</td>
       <td>Campos Racing</td>
-      <td>26</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>11</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>C. Lundgaard</td>
       <td>ART Grand Prix</td>
-      <td>16</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>14</td>
@@ -100,7 +100,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>17</td>
       <td>L. Zendeli</td>
       <td>MP Motorsport</td>
-      <td>4</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>18</td>
@@ -140,38 +140,38 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>UNI-Virtuosi</td>
-      <td>107</td>
+      <td>PREMA</td>
+      <td>139</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>PREMA</td>
-      <td>106</td>
+      <td>UNI-Virtuosi</td>
+      <td>119</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Carlin</td>
-      <td>101</td>
+      <td>Hitech</td>
+      <td>113</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Hitech</td>
-      <td>76</td>
+      <td>Carlin</td>
+      <td>113</td>
     </tr>
     <tr>
       <td>5</td>
       <td>ART</td>
-      <td>71</td>
+      <td>73</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>MP</td>
-      <td>27</td>
+      <td>Campos</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Campos</td>
-      <td>26</td>
+      <td>MP</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>8</td>
