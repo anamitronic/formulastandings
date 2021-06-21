@@ -50,9 +50,9 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>9</td>
-      <td>Pascal Wehrlein</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>54</td>
+      <td>Oliver Rowland</td>
+      <td>Nissan e.Dams</td>
+      <td>53</td>
     </tr>
     <tr>
       <td>10</td>
@@ -62,15 +62,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>11</td>
-      <td>Oliver Rowland</td>
-      <td>Nissan e.Dams</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>12</td>
       <td>Sam Bird</td>
       <td>Jaguar Racing</td>
       <td>49</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Pascal Wehrlein</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>48</td>
     </tr>
     <tr>
       <td>13</td>
@@ -80,15 +80,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>14</td>
-      <td>Alexander Sims</td>
-      <td>Mahindra Racing</td>
-      <td>36</td>
+      <td>Nick Cassidy</td>
+      <td>Envision Virgin Racing</td>
+      <td>37</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>Nick Cassidy</td>
-      <td>Envision Virgin Racing</td>
-      <td>34</td>
+      <td>Alexander Sims</td>
+      <td>Mahindra Racing</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>16</td>
@@ -179,7 +179,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>Envision Virgin Racing</td>
-      <td>96</td>
+      <td>99</td>
     </tr>
     <tr>
       <td>6</td>
@@ -193,18 +193,18 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>8</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>9</td>
       <td>Mahindra Racing</td>
       <td>68</td>
     </tr>
     <tr>
+      <td>9</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>66</td>
+    </tr>
+    <tr>
       <td>10</td>
       <td>Nissan e.Dams</td>
-      <td>61</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>11</td>
