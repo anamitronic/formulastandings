@@ -128,32 +128,32 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>22</td>
+      <td>O. Rasmussen</td>
+      <td>HWA RACELAB</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>A. Cordeel</td>
       <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>T. van der Helm</td>
       <td>MP Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>R. de Gerus</td>
       <td>Charouz Racing System</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>L. Colombo</td>
       <td>Campos Racing</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>O. Rasmussen</td>
-      <td>HWA RACELAB</td>
       <td>0</td>
     </tr>
     <tr>
@@ -164,14 +164,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>29</td>
-      <td>L. Tóth</td>
-      <td>Campos Racing</td>
+      <td>I. Cohen</td>
+      <td>Carlin Buzz Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>30</td>
-      <td>I. Cohen</td>
-      <td>Carlin Buzz Racing</td>
+      <td>L. Tóth</td>
+      <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
