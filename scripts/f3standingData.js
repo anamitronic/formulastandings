@@ -26,51 +26,51 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>5</td>
+      <td>F. Vesti</td>
+      <td>ART Grand Prix</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>C. Novalak</td>
       <td>Trident</td>
       <td>49</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>F. Vesti</td>
-      <td>ART Grand Prix</td>
-      <td>45</td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>A. Smolyar</td>
       <td>ART Grand Prix</td>
-      <td>41</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>8</td>
       <td>C. Collet</td>
       <td>MP Motorsport</td>
-      <td>40</td>
+      <td>35</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>L. Sargeant</td>
-      <td>Charouz Racing System</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>10</td>
       <td>A. Leclerc</td>
       <td>PREMA Racing</td>
       <td>22</td>
     </tr>
     <tr>
+      <td>10</td>
+      <td>J. Edgar</td>
+      <td>Carlin Buzz Racing</td>
+      <td>22</td>
+    </tr>
+    <tr>
       <td>11</td>
-      <td>M. Nannini</td>
-      <td>HWA RACELAB</td>
-      <td>19</td>
+      <td>L. Sargeant</td>
+      <td>Charouz Racing System</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>J. Edgar</td>
-      <td>Carlin Buzz Racing</td>
-      <td>17</td>
+      <td>M. Nannini</td>
+      <td>HWA RACELAB</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>13</td>
@@ -92,13 +92,13 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>16</td>
-      <td>R. Stanek</td>
-      <td>Hitech Grand Prix</td>
-      <td>9</td>
+      <td>E. Fittipaldi</td>
+      <td>Charouz Racing System</td>
+      <td>11</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>J. Crawford</td>
+      <td>R. Stanek</td>
       <td>Hitech Grand Prix</td>
       <td>9</td>
     </tr>
@@ -106,25 +106,25 @@ var tabledata=`<table border="1" class="dataframe">
       <td>18</td>
       <td>J. Correa</td>
       <td>ART Grand Prix</td>
-      <td>8</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>E. Fittipaldi</td>
-      <td>Charouz Racing System</td>
-      <td>3</td>
+      <td>J. Crawford</td>
+      <td>Hitech Grand Prix</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>J. Hoggard</td>
-      <td>Jenzer Motorsport</td>
-      <td>1</td>
+      <td>K. Frederick</td>
+      <td>Carlin Buzz Racing</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>K. Frederick</td>
-      <td>Carlin Buzz Racing</td>
-      <td>0</td>
+      <td>J. Hoggard</td>
+      <td>Jenzer Motorsport</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>22</td>
@@ -199,32 +199,32 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>3</td>
       <td>MP</td>
-      <td>106</td>
+      <td>101</td>
     </tr>
     <tr>
       <td>4</td>
       <td>ART Grand Prix</td>
-      <td>94</td>
+      <td>98</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Hitech</td>
-      <td>33</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Charouz</td>
-      <td>31</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>HWA RACELAB</td>
-      <td>19</td>
+      <td>Carlin</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Carlin</td>
-      <td>17</td>
+      <td>HWA RACELAB</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>9</td>
