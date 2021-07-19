@@ -4,61 +4,61 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>O. Piastri</td>
       <td>PREMA Racing</td>
-      <td>89</td>
+      <td>108</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>R. Shwartzman</td>
-      <td>PREMA Racing</td>
-      <td>81</td>
+      <td>G. Zhou</td>
+      <td>UNI-Virtuosi</td>
+      <td>103</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>J. Vips</td>
-      <td>Hitech Grand Prix</td>
-      <td>79</td>
+      <td>R. Shwartzman</td>
+      <td>PREMA Racing</td>
+      <td>91</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>G. Zhou</td>
-      <td>UNI-Virtuosi</td>
-      <td>78</td>
+      <td>D. Ticktum</td>
+      <td>Carlin</td>
+      <td>89</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>D. Ticktum</td>
-      <td>Carlin</td>
-      <td>71</td>
+      <td>J. Vips</td>
+      <td>Hitech Grand Prix</td>
+      <td>85</td>
     </tr>
     <tr>
       <td>6</td>
       <td>T. Pourchaire</td>
       <td>ART Grand Prix</td>
-      <td>61</td>
+      <td>65</td>
     </tr>
     <tr>
       <td>7</td>
+      <td>F. Drugovich</td>
+      <td>UNI-Virtuosi</td>
+      <td>59</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>L. Lawson</td>
       <td>Hitech Grand Prix</td>
       <td>58</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>J. Daruvala</td>
       <td>Carlin</td>
-      <td>53</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>F. Drugovich</td>
-      <td>UNI-Virtuosi</td>
-      <td>51</td>
+      <td>56</td>
     </tr>
     <tr>
       <td>10</td>
       <td>R. Verschoor</td>
       <td>MP Motorsport</td>
-      <td>38</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>11</td>
@@ -100,7 +100,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>17</td>
       <td>L. Zendeli</td>
       <td>MP Motorsport</td>
-      <td>5</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>18</td>
@@ -141,32 +141,32 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA</td>
-      <td>170</td>
+      <td>199</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Hitech</td>
-      <td>137</td>
+      <td>UNI-Virtuosi</td>
+      <td>162</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>UNI-Virtuosi</td>
-      <td>129</td>
+      <td>Carlin</td>
+      <td>145</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Carlin</td>
-      <td>124</td>
+      <td>Hitech</td>
+      <td>143</td>
     </tr>
     <tr>
       <td>5</td>
       <td>ART</td>
-      <td>89</td>
+      <td>93</td>
     </tr>
     <tr>
       <td>6</td>
       <td>MP</td>
-      <td>43</td>
+      <td>57</td>
     </tr>
     <tr>
       <td>7</td>
