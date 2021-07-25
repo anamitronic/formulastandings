@@ -2,99 +2,99 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
+      <td>Nyck De Vries</td>
+      <td>Mercedes-EQ Formula E Team</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Robin Frijns</td>
+      <td>Envision Virgin Racing</td>
+      <td>89</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Sam Bird</td>
       <td>Jaguar Racing</td>
       <td>81</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
+      <td>Jake Dennis</td>
+      <td>BMW i Andretti Motorsport</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>António Félix Da Costa</td>
       <td>DS TECHEETAH</td>
       <td>80</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Jake Dennis</td>
-      <td>BMW i Andretti Motorsport</td>
-      <td>79</td>
+      <td>6</td>
+      <td>Alex Lynn</td>
+      <td>Mahindra Racing</td>
+      <td>78</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Nyck De Vries</td>
-      <td>Mercedes-EQ Formula E Team</td>
-      <td>77</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Robin Frijns</td>
+      <td>7</td>
+      <td>Nick Cassidy</td>
       <td>Envision Virgin Racing</td>
       <td>76</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
+      <td>Mitch Evans</td>
+      <td>Jaguar Racing</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>Edoardo Mortara</td>
       <td>ROKiT Venturi Racing</td>
       <td>74</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>René Rast</td>
       <td>Audi Sport ABT Schaeffler</td>
       <td>72</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>Nick Cassidy</td>
-      <td>Envision Virgin Racing</td>
-      <td>70</td>
+      <td>11</td>
+      <td>Pascal Wehrlein</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>71</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>Jean-Éric Vergne</td>
       <td>DS TECHEETAH</td>
       <td>68</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>Lucas Di Grassi</td>
       <td>Audi Sport ABT Schaeffler</td>
-      <td>62</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Pascal Wehrlein</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>61</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Stoffel Vandoorne</td>
-      <td>Mercedes-EQ Formula E Team</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Mitch Evans</td>
-      <td>Jaguar Racing</td>
-      <td>60</td>
+      <td>66</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>Oliver Rowland</td>
-      <td>Nissan e.Dams</td>
-      <td>59</td>
+      <td>Stoffel Vandoorne</td>
+      <td>Mercedes-EQ Formula E Team</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>15</td>
       <td>Maximilian Guenther</td>
       <td>BMW i Andretti Motorsport</td>
-      <td>54</td>
+      <td>62</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>Alex Lynn</td>
-      <td>Mahindra Racing</td>
-      <td>52</td>
+      <td>Oliver Rowland</td>
+      <td>Nissan e.Dams</td>
+      <td>59</td>
     </tr>
     <tr>
       <td>17</td>
@@ -128,15 +128,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>22</td>
-      <td>Oliver Turvey</td>
-      <td>NIO 333 FE Team</td>
-      <td>13</td>
+      <td>Sérgio Sette Câmara</td>
+      <td>DRAGON / PENSKE AUTOSPORT</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>23</td>
-      <td>Sérgio Sette Câmara</td>
-      <td>DRAGON / PENSKE AUTOSPORT</td>
-      <td>12</td>
+      <td>Oliver Turvey</td>
+      <td>NIO 333 FE Team</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>24</td>
@@ -158,43 +158,43 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>DS TECHEETAH</td>
-      <td>148</td>
+      <td>Envision Virgin Racing</td>
+      <td>165</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Envision Virgin Racing</td>
-      <td>146</td>
+      <td>Mercedes-EQ Formula E Team</td>
+      <td>158</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Jaguar Racing</td>
-      <td>141</td>
+      <td>156</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Mercedes-EQ Formula E Team</td>
-      <td>137</td>
+      <td>DS TECHEETAH</td>
+      <td>148</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Audi Sport ABT Schaeffler</td>
-      <td>134</td>
+      <td>BMW i Andretti Motorsport</td>
+      <td>142</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>BMW i Andretti Motorsport</td>
-      <td>133</td>
+      <td>Audi Sport ABT Schaeffler</td>
+      <td>138</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>106</td>
+      <td>Mahindra Racing</td>
+      <td>122</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Mahindra Racing</td>
-      <td>96</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>116</td>
     </tr>
     <tr>
       <td>9</td>
@@ -209,7 +209,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>11</td>
       <td>DRAGON / PENSKE AUTOSPORT</td>
-      <td>42</td>
+      <td>44</td>
     </tr>
     <tr>
       <td>12</td>
