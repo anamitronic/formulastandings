@@ -10,103 +10,103 @@ var tabledata=`<table border="1" class="dataframe">
       <td>2</td>
       <td>António Félix Da Costa</td>
       <td>DS TECHEETAH</td>
-      <td>76</td>
+      <td>80</td>
     </tr>
     <tr>
       <td>3</td>
+      <td>Jake Dennis</td>
+      <td>BMW i Andretti Motorsport</td>
+      <td>79</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Nyck De Vries</td>
+      <td>Mercedes-EQ Formula E Team</td>
+      <td>77</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>Robin Frijns</td>
       <td>Envision Virgin Racing</td>
       <td>76</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>Edoardo Mortara</td>
       <td>ROKiT Venturi Racing</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Nick Cassidy</td>
-      <td>Envision Virgin Racing</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Jean-Éric Vergne</td>
-      <td>DS TECHEETAH</td>
-      <td>68</td>
+      <td>74</td>
     </tr>
     <tr>
       <td>7</td>
       <td>René Rast</td>
       <td>Audi Sport ABT Schaeffler</td>
-      <td>61</td>
+      <td>72</td>
     </tr>
     <tr>
       <td>8</td>
+      <td>Nick Cassidy</td>
+      <td>Envision Virgin Racing</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Jean-Éric Vergne</td>
+      <td>DS TECHEETAH</td>
+      <td>68</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Lucas Di Grassi</td>
+      <td>Audi Sport ABT Schaeffler</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Pascal Wehrlein</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>61</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Stoffel Vandoorne</td>
+      <td>Mercedes-EQ Formula E Team</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>Mitch Evans</td>
       <td>Jaguar Racing</td>
       <td>60</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Pascal Wehrlein</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Nyck De Vries</td>
-      <td>Mercedes-EQ Formula E Team</td>
-      <td>59</td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>14</td>
       <td>Oliver Rowland</td>
       <td>Nissan e.Dams</td>
       <td>59</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>Lucas Di Grassi</td>
-      <td>Audi Sport ABT Schaeffler</td>
-      <td>54</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Stoffel Vandoorne</td>
-      <td>Mercedes-EQ Formula E Team</td>
-      <td>54</td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>15</td>
       <td>Maximilian Guenther</td>
       <td>BMW i Andretti Motorsport</td>
       <td>54</td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>Jake Dennis</td>
-      <td>BMW i Andretti Motorsport</td>
-      <td>54</td>
-    </tr>
-    <tr>
       <td>16</td>
-      <td>Alexander Sims</td>
+      <td>Alex Lynn</td>
       <td>Mahindra Racing</td>
-      <td>44</td>
+      <td>52</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>Alex Lynn</td>
-      <td>Mahindra Racing</td>
-      <td>34</td>
+      <td>André Lotterer</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>45</td>
     </tr>
     <tr>
       <td>18</td>
-      <td>André Lotterer</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>32</td>
+      <td>Alexander Sims</td>
+      <td>Mahindra Racing</td>
+      <td>44</td>
     </tr>
     <tr>
       <td>19</td>
@@ -158,13 +158,13 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>Envision Virgin Racing</td>
-      <td>146</td>
+      <td>DS TECHEETAH</td>
+      <td>148</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>DS TECHEETAH</td>
-      <td>144</td>
+      <td>Envision Virgin Racing</td>
+      <td>146</td>
     </tr>
     <tr>
       <td>3</td>
@@ -173,38 +173,38 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>4</td>
-      <td>Audi Sport ABT Schaeffler</td>
-      <td>115</td>
+      <td>Mercedes-EQ Formula E Team</td>
+      <td>137</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Mercedes-EQ Formula E Team</td>
-      <td>113</td>
+      <td>Audi Sport ABT Schaeffler</td>
+      <td>134</td>
     </tr>
     <tr>
       <td>6</td>
       <td>BMW i Andretti Motorsport</td>
-      <td>108</td>
+      <td>133</td>
     </tr>
     <tr>
       <td>7</td>
       <td>TAG Heuer Porsche Formula E Team</td>
-      <td>92</td>
+      <td>106</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>ROKiT Venturi Racing</td>
-      <td>89</td>
+      <td>Mahindra Racing</td>
+      <td>96</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Nissan e.Dams</td>
-      <td>79</td>
+      <td>ROKiT Venturi Racing</td>
+      <td>91</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Mahindra Racing</td>
-      <td>78</td>
+      <td>Nissan e.Dams</td>
+      <td>79</td>
     </tr>
     <tr>
       <td>11</td>
