@@ -22,7 +22,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>4</td>
       <td>Jake Dennis</td>
       <td>BMW i Andretti Motorsport</td>
-      <td>80</td>
+      <td>81</td>
     </tr>
     <tr>
       <td>5</td>
@@ -74,15 +74,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>13</td>
-      <td>Lucas Di Grassi</td>
-      <td>Audi Sport ABT Schaeffler</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>14</td>
       <td>Stoffel Vandoorne</td>
       <td>Mercedes-EQ Formula E Team</td>
       <td>63</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Lucas Di Grassi</td>
+      <td>Audi Sport ABT Schaeffler</td>
+      <td>62</td>
     </tr>
     <tr>
       <td>15</td>
@@ -130,7 +130,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>22</td>
       <td>Sérgio Sette Câmara</td>
       <td>DRAGON / PENSKE AUTOSPORT</td>
-      <td>14</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>23</td>
@@ -148,7 +148,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>25</td>
       <td>Joel Eriksson</td>
       <td>DRAGON / PENSKE AUTOSPORT</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
@@ -179,12 +179,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>BMW i Andretti Motorsport</td>
-      <td>142</td>
+      <td>143</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Audi Sport ABT Schaeffler</td>
-      <td>138</td>
+      <td>134</td>
     </tr>
     <tr>
       <td>7</td>
@@ -209,7 +209,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>11</td>
       <td>DRAGON / PENSKE AUTOSPORT</td>
-      <td>44</td>
+      <td>47</td>
     </tr>
     <tr>
       <td>12</td>
