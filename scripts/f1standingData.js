@@ -2,15 +2,15 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>Max Verstappen VER</td>
-      <td>Red Bull Racing Honda</td>
-      <td>185</td>
+      <td>Lewis Hamilton HAM</td>
+      <td>Mercedes</td>
+      <td>192</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Lewis Hamilton HAM</td>
-      <td>Mercedes</td>
-      <td>177</td>
+      <td>Max Verstappen VER</td>
+      <td>Red Bull Racing Honda</td>
+      <td>186</td>
     </tr>
     <tr>
       <td>3</td>
@@ -40,7 +40,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>7</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>68</td>
+      <td>80</td>
     </tr>
     <tr>
       <td>8</td>
@@ -50,68 +50,68 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>9</td>
-      <td>Pierre Gasly GAS</td>
-      <td>AlphaTauri Honda</td>
-      <td>39</td>
+      <td>Sebastian Vettel VET</td>
+      <td>Aston Martin Mercedes</td>
+      <td>48</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Sebastian Vettel VET</td>
-      <td>Aston Martin Mercedes</td>
-      <td>30</td>
+      <td>Pierre Gasly GAS</td>
+      <td>AlphaTauri Honda</td>
+      <td>48</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>Fernando Alonso ALO</td>
+      <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>26</td>
+      <td>39</td>
     </tr>
     <tr>
       <td>12</td>
+      <td>Fernando Alonso ALO</td>
+      <td>Alpine Renault</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>Lance Stroll STR</td>
       <td>Aston Martin Mercedes</td>
       <td>18</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>Esteban Ocon OCO</td>
-      <td>Alpine Renault</td>
-      <td>14</td>
-    </tr>
-    <tr>
       <td>14</td>
       <td>Yuki Tsunoda TSU</td>
       <td>AlphaTauri Honda</td>
-      <td>10</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>15</td>
+      <td>Nicholas Latifi LAT</td>
+      <td>Williams Mercedes</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>George Russell RUS</td>
+      <td>Williams Mercedes</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>Kimi Räikkönen RAI</td>
       <td>Alfa Romeo Racing Ferrari</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>Antonio Giovinazzi GIO</td>
       <td>Alfa Romeo Racing Ferrari</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>George Russell RUS</td>
-      <td>Williams Mercedes</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>19</td>
       <td>Mick Schumacher MSC</td>
       <td>Haas Ferrari</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Nicholas Latifi LAT</td>
-      <td>Williams Mercedes</td>
       <td>0</td>
     </tr>
     <tr>
@@ -128,13 +128,13 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>Red Bull Racing Honda</td>
-      <td>289</td>
+      <td>Mercedes</td>
+      <td>300</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Mercedes</td>
-      <td>285</td>
+      <td>Red Bull Racing Honda</td>
+      <td>290</td>
     </tr>
     <tr>
       <td>3</td>
@@ -144,32 +144,32 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>Ferrari</td>
-      <td>148</td>
+      <td>160</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>AlphaTauri Honda</td>
-      <td>49</td>
+      <td>Alpine Renault</td>
+      <td>75</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Aston Martin Mercedes</td>
-      <td>48</td>
+      <td>66</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Alpine Renault</td>
-      <td>40</td>
+      <td>AlphaTauri Honda</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Alfa Romeo Racing Ferrari</td>
-      <td>2</td>
+      <td>Williams Mercedes</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Williams Mercedes</td>
-      <td>0</td>
+      <td>Alfa Romeo Racing Ferrari</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>10</td>
@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='01/08/2021 15:01:45 UTC';
+document.getElementById('lastup').innerHTML='01/08/2021 15:40:11 UTC';
