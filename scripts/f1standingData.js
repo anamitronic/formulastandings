@@ -67,6 +67,12 @@ var tabledata=`<table border="1" class="dataframe">
       <td>38</td>
     </tr>
     <tr>
+      <td>12</td>
+      <td>Sebastian Vettel VET</td>
+      <td>Aston Martin Mercedes</td>
+      <td>30</td>
+    </tr>
+    <tr>
       <td>13</td>
       <td>Yuki Tsunoda TSU</td>
       <td>AlphaTauri Honda</td>
@@ -174,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='02/08/2021 23:32:59 UTC';
+document.getElementById('lastup').innerHTML='08/08/2021 00:13:49 UTC';
