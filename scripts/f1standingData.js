@@ -135,32 +135,32 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Mercedes</td>
-      <td>310.5</td>
+      <td>344.5</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Red Bull Racing Honda</td>
-      <td>303.5</td>
+      <td>332.5</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>McLaren Mercedes</td>
-      <td>169</td>
+      <td>Ferrari</td>
+      <td>181.5</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Ferrari</td>
-      <td>165.5</td>
+      <td>McLaren Mercedes</td>
+      <td>170</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Alpine Renault</td>
-      <td>80</td>
+      <td>90</td>
     </tr>
     <tr>
       <td>6</td>
       <td>AlphaTauri Honda</td>
-      <td>72</td>
+      <td>84</td>
     </tr>
     <tr>
       <td>7</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='05/09/2021 15:02:04 UTC';
+document.getElementById('lastup').innerHTML='05/09/2021 15:37:02 UTC';
