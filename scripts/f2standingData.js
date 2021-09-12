@@ -127,7 +127,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>0</td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>E. Fittipaldi</td>
       <td>Charouz Racing System</td>
       <td>0</td>
