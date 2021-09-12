@@ -58,13 +58,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>R. Verschoor</td>
       <td>MP Motorsport</td>
-      <td>56</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>11</td>
       <td>C. Lundgaard</td>
       <td>ART Grand Prix</td>
-      <td>38</td>
+      <td>39</td>
     </tr>
     <tr>
       <td>12</td>
@@ -82,7 +82,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>14</td>
       <td>M. Armstrong</td>
       <td>DAMS</td>
-      <td>25</td>
+      <td>26</td>
     </tr>
     <tr>
       <td>15</td>
@@ -94,13 +94,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>16</td>
       <td>R. Nissany</td>
       <td>DAMS</td>
-      <td>14</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>17</td>
       <td>L. Zendeli</td>
       <td>MP Motorsport</td>
-      <td>11</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>18</td>
@@ -116,20 +116,20 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>22</td>
+      <td>E. Fittipaldi</td>
+      <td>Charouz Racing System</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>A. Deledda</td>
       <td>HWA RACELAB</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>J. Hughes</td>
       <td>HWA RACELAB</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>E. Fittipaldi</td>
-      <td>Charouz Racing System</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -161,22 +161,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>ART</td>
-      <td>132</td>
+      <td>133</td>
     </tr>
     <tr>
       <td>6</td>
       <td>MP</td>
-      <td>67</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Campos</td>
+      <td>DAMS</td>
       <td>42</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>DAMS</td>
-      <td>39</td>
+      <td>Campos</td>
+      <td>42</td>
     </tr>
     <tr>
       <td>9</td>
