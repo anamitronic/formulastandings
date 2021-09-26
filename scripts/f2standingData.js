@@ -4,49 +4,49 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>O. Piastri</td>
       <td>PREMA Racing</td>
-      <td>149</td>
+      <td>178</td>
     </tr>
     <tr>
       <td>2</td>
       <td>G. Zhou</td>
       <td>UNI-Virtuosi</td>
-      <td>134</td>
+      <td>142</td>
     </tr>
     <tr>
       <td>3</td>
       <td>R. Shwartzman</td>
       <td>PREMA Racing</td>
-      <td>123</td>
+      <td>135</td>
     </tr>
     <tr>
       <td>4</td>
       <td>D. Ticktum</td>
       <td>Carlin</td>
-      <td>119</td>
+      <td>129</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>J. Vips</td>
-      <td>Hitech Grand Prix</td>
-      <td>102</td>
+      <td>T. Pourchaire</td>
+      <td>ART Grand Prix</td>
+      <td>120</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>T. Pourchaire</td>
-      <td>ART Grand Prix</td>
+      <td>J. Vips</td>
+      <td>Hitech Grand Prix</td>
       <td>102</td>
     </tr>
     <tr>
       <td>7</td>
       <td>J. Daruvala</td>
       <td>Carlin</td>
-      <td>81</td>
+      <td>96</td>
     </tr>
     <tr>
       <td>8</td>
       <td>L. Lawson</td>
       <td>Hitech Grand Prix</td>
-      <td>72</td>
+      <td>80</td>
     </tr>
     <tr>
       <td>9</td>
@@ -58,13 +58,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>R. Verschoor</td>
       <td>MP Motorsport</td>
-      <td>51</td>
+      <td>55</td>
     </tr>
     <tr>
       <td>11</td>
       <td>C. Lundgaard</td>
       <td>ART Grand Prix</td>
-      <td>41</td>
+      <td>43</td>
     </tr>
     <tr>
       <td>12</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>D. Beckmann</td>
       <td>Campos Racing</td>
-      <td>31</td>
+      <td>32</td>
     </tr>
     <tr>
       <td>14</td>
@@ -141,37 +141,37 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA</td>
-      <td>272</td>
+      <td>313</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Carlin</td>
-      <td>200</td>
+      <td>225</td>
     </tr>
     <tr>
       <td>3</td>
       <td>UNI-Virtuosi</td>
-      <td>193</td>
+      <td>201</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Hitech</td>
-      <td>174</td>
+      <td>182</td>
     </tr>
     <tr>
       <td>5</td>
       <td>ART</td>
-      <td>143</td>
+      <td>163</td>
     </tr>
     <tr>
       <td>6</td>
       <td>MP</td>
-      <td>64</td>
+      <td>68</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Campos</td>
-      <td>46</td>
+      <td>47</td>
     </tr>
     <tr>
       <td>8</td>
