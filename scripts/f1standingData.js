@@ -4,7 +4,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing Honda</td>
-      <td>312.5</td>
+      <td>314.5</td>
     </tr>
     <tr>
       <td>2</td>
@@ -16,7 +16,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>3</td>
       <td>Valtteri Bottas BOT</td>
       <td>Mercedes</td>
-      <td>185</td>
+      <td>188</td>
     </tr>
     <tr>
       <td>4</td>
@@ -40,7 +40,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>7</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>130.5</td>
+      <td>131.5</td>
     </tr>
     <tr>
       <td>8</td>
@@ -135,17 +135,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Mercedes</td>
-      <td>478.5</td>
+      <td>481.5</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Red Bull Racing Honda</td>
-      <td>477.5</td>
+      <td>479.5</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Ferrari</td>
-      <td>268.5</td>
+      <td>269.5</td>
     </tr>
     <tr>
       <td>4</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='08/11/2021 23:34:33 UTC';
+document.getElementById('lastup').innerHTML='14/11/2021 00:16:17 UTC';
