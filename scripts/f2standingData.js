@@ -55,12 +55,6 @@ var tabledata=`<table border="1" class="dataframe">
       <td>59</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>R. Verschoor</td>
-      <td>MP Motorsport</td>
-      <td>55</td>
-    </tr>
-    <tr>
       <td>11</td>
       <td>C. Lundgaard</td>
       <td>ART Grand Prix</td>
@@ -129,6 +123,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>28</td>
       <td>C. Novalak</td>
+      <td>MP Motorsport</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>J. Doohan</td>
       <td>MP Motorsport</td>
       <td>0</td>
     </tr>
