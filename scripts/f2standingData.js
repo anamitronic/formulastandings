@@ -91,12 +91,6 @@ var tabledata=`<table border="1" class="dataframe">
       <td>16</td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>J. Hughes</td>
-      <td>HWA RACELAB</td>
-      <td>8</td>
-    </tr>
-    <tr>
       <td>19</td>
       <td>M. Sato</td>
       <td>Trident</td>
