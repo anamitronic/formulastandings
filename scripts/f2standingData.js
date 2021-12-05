@@ -4,25 +4,25 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>O. Piastri</td>
       <td>PREMA Racing</td>
-      <td>196</td>
+      <td>213.5</td>
     </tr>
     <tr>
       <td>2</td>
       <td>R. Shwartzman</td>
       <td>PREMA Racing</td>
-      <td>153</td>
+      <td>162</td>
     </tr>
     <tr>
       <td>3</td>
       <td>G. Zhou</td>
       <td>UNI-Virtuosi</td>
-      <td>143</td>
+      <td>149</td>
     </tr>
     <tr>
       <td>4</td>
       <td>D. Ticktum</td>
       <td>Carlin</td>
-      <td>139</td>
+      <td>139.5</td>
     </tr>
     <tr>
       <td>5</td>
@@ -34,7 +34,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>6</td>
       <td>J. Vips</td>
       <td>Hitech Grand Prix</td>
-      <td>112</td>
+      <td>116</td>
     </tr>
     <tr>
       <td>7</td>
@@ -46,31 +46,31 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>L. Lawson</td>
       <td>Hitech Grand Prix</td>
-      <td>92</td>
+      <td>93</td>
     </tr>
     <tr>
       <td>9</td>
       <td>F. Drugovich</td>
       <td>UNI-Virtuosi</td>
-      <td>67</td>
+      <td>72</td>
     </tr>
     <tr>
       <td>11</td>
       <td>C. Lundgaard</td>
       <td>ART Grand Prix</td>
-      <td>47</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>M. Armstrong</td>
-      <td>DAMS</td>
-      <td>41</td>
+      <td>R. Boschung</td>
+      <td>Campos Racing</td>
+      <td>47.5</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>R. Boschung</td>
-      <td>Campos Racing</td>
-      <td>40</td>
+      <td>M. Armstrong</td>
+      <td>DAMS</td>
+      <td>43</td>
     </tr>
     <tr>
       <td>14</td>
@@ -141,27 +141,27 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA</td>
-      <td>349</td>
+      <td>375.5</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Carlin</td>
-      <td>235</td>
+      <td>235.5</td>
     </tr>
     <tr>
       <td>3</td>
       <td>UNI-Virtuosi</td>
-      <td>210</td>
+      <td>221</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Hitech</td>
-      <td>204</td>
+      <td>209</td>
     </tr>
     <tr>
       <td>5</td>
       <td>ART</td>
-      <td>171</td>
+      <td>174</td>
     </tr>
     <tr>
       <td>6</td>
@@ -171,12 +171,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>DAMS</td>
-      <td>57</td>
+      <td>59</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Campos</td>
-      <td>47</td>
+      <td>54.5</td>
     </tr>
     <tr>
       <td>9</td>
