@@ -4,37 +4,37 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>O. Piastri</td>
       <td>PREMA Racing</td>
-      <td>223.5</td>
+      <td>252.5</td>
     </tr>
     <tr>
       <td>2</td>
       <td>R. Shwartzman</td>
       <td>PREMA Racing</td>
-      <td>182</td>
+      <td>192</td>
     </tr>
     <tr>
       <td>3</td>
       <td>G. Zhou</td>
       <td>UNI-Virtuosi</td>
-      <td>165</td>
+      <td>183</td>
     </tr>
     <tr>
       <td>4</td>
       <td>D. Ticktum</td>
       <td>Carlin</td>
-      <td>151.5</td>
+      <td>159.5</td>
     </tr>
     <tr>
       <td>5</td>
       <td>T. Pourchaire</td>
       <td>ART Grand Prix</td>
-      <td>126</td>
+      <td>140</td>
     </tr>
     <tr>
       <td>6</td>
       <td>J. Vips</td>
       <td>Hitech Grand Prix</td>
-      <td>116</td>
+      <td>120</td>
     </tr>
     <tr>
       <td>7</td>
@@ -44,27 +44,27 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>8</td>
+      <td>F. Drugovich</td>
+      <td>UNI-Virtuosi</td>
+      <td>105</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>L. Lawson</td>
       <td>Hitech Grand Prix</td>
       <td>103</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>F. Drugovich</td>
-      <td>UNI-Virtuosi</td>
-      <td>90</td>
-    </tr>
-    <tr>
       <td>10</td>
       <td>R. Boschung</td>
       <td>Campos Racing</td>
-      <td>57.5</td>
+      <td>59.5</td>
     </tr>
     <tr>
       <td>11</td>
       <td>R. Verschoor</td>
       <td>Charouz Racing System</td>
-      <td>55</td>
+      <td>56</td>
     </tr>
     <tr>
       <td>12</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>M. Armstrong</td>
       <td>DAMS</td>
-      <td>43</td>
+      <td>49</td>
     </tr>
     <tr>
       <td>14</td>
@@ -141,27 +141,27 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA</td>
-      <td>405.5</td>
+      <td>444.5</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Carlin</td>
-      <td>264.5</td>
+      <td>UNI-Virtuosi</td>
+      <td>288</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>UNI-Virtuosi</td>
-      <td>255</td>
+      <td>Carlin</td>
+      <td>272.5</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Hitech</td>
-      <td>219</td>
+      <td>223</td>
     </tr>
     <tr>
       <td>5</td>
       <td>ART</td>
-      <td>176</td>
+      <td>190</td>
     </tr>
     <tr>
       <td>6</td>
@@ -171,12 +171,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Campos</td>
-      <td>64.5</td>
+      <td>66.5</td>
     </tr>
     <tr>
       <td>8</td>
       <td>DAMS</td>
-      <td>59</td>
+      <td>65</td>
     </tr>
     <tr>
       <td>9</td>
@@ -186,7 +186,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>10</td>
       <td>Charouz</td>
-      <td>27</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>11</td>
