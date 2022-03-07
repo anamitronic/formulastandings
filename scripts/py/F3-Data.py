@@ -7,8 +7,18 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Message if table was empty or doesn't exist
-InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
-
+def InactiveSession():
+    InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
+    DriverJsData="var tabledata=`"+InactiveMsg+"\n`;\ndocument.getElementById('f3-drivers').innerHTML+=tabledata;"
+    ConstructorJsData="\nvar tabledata=`"+InactiveMsg+"\n`;\ndocument.getElementById('f3-constructors').innerHTML+=tabledata;"
+    jsData=DriverJsData+ConstructorJsData
+   # writing js code to js file
+    f = open("./scripts/f3standingData.js", "w")
+    f.write(jsData)
+    f.close()
+    # close the connection
+    print("F3 Script Complete - Inactive Session")
+    SystemExit(0)
 
 # DRIVER STANDINGS
 # Path to extract from
@@ -22,7 +32,10 @@ list_header = ["pos","name","points"]
 soup = BeautifulSoup(requests.get(path).content,'html.parser')
  
 # Getting the data 
-HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
+try: 
+    HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
+except IndexError:
+    InactiveSession()
 
 for element in HTML_data:
     sub_data = []
@@ -73,9 +86,9 @@ print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 # Checking if table is empty
 if dfTable.empty:
-    htmlTable=InactiveMsg
+    InactiveSession()
 # Converting table to js syntax
-jsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f3-drivers').innerHTML+=tabledata;"
+DriverJsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f3-drivers').innerHTML+=tabledata;"
 
 
 # TEAM STANDINGS
@@ -89,7 +102,10 @@ data = []
 list_header = ["pos","name","points"] 
 # Getting the data
 soup = BeautifulSoup(requests.get(path).content,'html.parser') 
-HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
+try:
+    HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
+except IndexError:
+    InactiveSession()
 
 for element in HTML_data:
     sub_data = []
@@ -112,13 +128,14 @@ print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 # Checking if table is empty
 if dfTable.empty:
-    htmlTable=InactiveMsg
+    InactiveSession()
 # Converting table to js syntax
-jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f3-constructors').innerHTML+=tabledata;"
+ConstructorJsData="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f3-constructors').innerHTML+=tabledata;"
 
+jsData=DriverJsData+ConstructorJsData
 # writing js code to js file
 f = open("./scripts/f3standingData.js", "w")
 f.write(jsData)
 f.close()
 # close the connection
-print("done")
+print("F3 Script Complete")

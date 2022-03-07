@@ -7,9 +7,24 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Message if table was empty or doesn't exist
-InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
 
+# Function if table data unavailable
+def InactiveSession():
+    InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
+    DriverJsData="var tabledata=`"+InactiveMsg+"\n`;\ndocument.getElementById('f1-drivers').innerHTML+=tabledata;"
+    ConstructorJsData="\nvar tabledata=`"+InactiveMsg+"\n`;\ndocument.getElementById('f1-constructors').innerHTML+=tabledata;"
+    jsData=DriverJsData+ConstructorJsData
+    # add last updated
+    curDateTime=datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    jsData+="\ndocument.getElementById('lastup').innerHTML='"+curDateTime+" UTC';"
 
+    # writing js code to js file
+    f = open("./scripts/f1standingData.js", "w")
+    f.write(jsData)
+    f.close()
+    # close the connection
+    print("F1 Script Complete - Inactive Session")
+    SystemExit(0)
 # DRIVER STANDINGS
 # Path to extract from
 path = "https://www.formula1.com/en/results.html/"+datetime.today().strftime('%Y')+"/drivers.html"
@@ -20,8 +35,11 @@ data = []
 # Getting the header from the HTML file
 list_header = []
 soup = BeautifulSoup(requests.get(path).content,'html.parser')
-header = soup.find_all("table")[0].find("tr")
-  
+try:
+    header = soup.find_all("table")[0].find("tr")
+except IndexError:
+    InactiveSession()
+
 for items in header:
     try:
         list_header.append(items.get_text())
@@ -52,9 +70,9 @@ print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 # Checking if table is empty
 if dfTable.empty:
-    htmlTable=InactiveMsg
+    InactiveSession()
 # Converting table to js syntax
-jsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-drivers').innerHTML+=tabledata;"
+DriverJsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-drivers').innerHTML+=tabledata;"
 
 
 # TEAM STANDINGS
@@ -99,10 +117,10 @@ print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 # Checking if table is empty
 if dfTable.empty:
-    htmlTable=InactiveMsg
+    InactiveSession()
 # Converting table to js syntax
-jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-constructors').innerHTML+=tabledata;"
-
+ConstructorJsData="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('f1-constructors').innerHTML+=tabledata;"
+jsData=DriverJsData+ConstructorJsData
 # add last updated
 curDateTime=datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 jsData+="\ndocument.getElementById('lastup').innerHTML='"+curDateTime+" UTC';"
@@ -112,4 +130,4 @@ f = open("./scripts/f1standingData.js", "w")
 f.write(jsData)
 f.close()
 # close the connection
-print("done")
+print("F1 Script Complete")

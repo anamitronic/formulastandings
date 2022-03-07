@@ -7,8 +7,18 @@ from bs4 import BeautifulSoup
 from datetime import date
 
 # Message if table was empty or doesn't exist
-InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+date.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
-
+def InactiveSession():
+    InactiveMsg="<tbody>\n\t<td colspan='100' style='text-align:center'>The "+datetime.today().strftime('%Y')+" season is not currently in session</td>\n</tbody>"
+    DriverJsData="var tabledata=`"+InactiveMsg+"\n`;\ndocument.getElementById('fe-drivers').innerHTML+=tabledata;"
+    ConstructorJsData="\nvar tabledata=`"+InactiveMsg+"\n`;\ndocument.getElementById('fe-constructors').innerHTML+=tabledata;"
+    jsData=DriverJsData+ConstructorJsData
+   # writing js code to js file
+    f = open("./scripts/festandingData.js", "w")
+    f.write(jsData)
+    f.close()
+    # close the connection
+    print("FE Script Complete - Inactive Session")
+    SystemExit(0)
 # DRIVER STANDINGS
 # Path to extract from
 path = "https://www.fiaformulae.com/en/results/standings/driver"
@@ -21,8 +31,11 @@ list_header = ["pos","name","team","points"]
 soup = BeautifulSoup(requests.get(path).content,'html.parser')
   
 # Getting the data 
-HTML_data = soup.find_all("table")[0].find_all("tr",{"class": "table__row"})
-
+try:
+    HTML_data = soup.find_all("table")[0].find_all("tr",{"class": "table__row"})
+except IndexError:
+    InactiveSession()
+    
 for element in HTML_data:
     sub_data = []
     sub_element=element.find("div", {"class": "pos"}).find("span", {"class": "value"})
@@ -46,9 +59,9 @@ print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 # Checking if table is empty
 if dfTable.empty:
-    htmlTable=InactiveMsg
+    InactiveSession()
 # Converting table to js syntax
-jsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('fe-drivers').innerHTML+=tabledata;"
+DriverJsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('fe-drivers').innerHTML+=tabledata;"
 
 
 # TEAM STANDINGS
@@ -62,8 +75,11 @@ data = []
 list_header = ["pos","team","points"]
 soup = BeautifulSoup(requests.get(path).content,'html.parser')
   
-# Getting the data 
-HTML_data = soup.find_all("table")[0].find_all("tr",{"class": "table__row"})
+# Getting the data
+try: 
+    HTML_data = soup.find_all("table")[0].find_all("tr",{"class": "table__row"})
+except IndexError:
+    InactiveSession()
 
 for element in HTML_data:
     sub_data = []
@@ -87,13 +103,14 @@ print(dfTable)
 htmlTable = dfTable.to_html(index=False,header=False)
 # Checking if table is empty
 if dfTable.empty:
-    htmlTable=InactiveMsg
+    InactiveSession()
 # Converting table to js syntax
-jsData+="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('fe-constructors').innerHTML+=tabledata;"
+ConstructorJsData="\nvar tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('fe-constructors').innerHTML+=tabledata;"
 
+jsData=DriverJsData+ConstructorJsData
 # writing js code to js file
 f = open("./scripts/festandingData.js", "w")
 f.write(jsData)
 f.close()
 # close the connection
-print("done")
+print("FE Script Complete")
