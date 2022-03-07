@@ -24,7 +24,7 @@ def InactiveSession():
     f.close()
     # close the connection
     print("F1 Script Complete - Inactive Session")
-    SystemExit(0)
+    sys.exit()
 # DRIVER STANDINGS
 # Path to extract from
 path = "https://www.formula1.com/en/results.html/"+datetime.today().strftime('%Y')+"/drivers.html"

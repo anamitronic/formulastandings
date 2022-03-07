@@ -18,7 +18,7 @@ def InactiveSession():
     f.close()
     # close the connection
     print("F3 Script Complete - Inactive Session")
-    SystemExit(0)
+    sys.exit()
 
 # DRIVER STANDINGS
 # Path to extract from

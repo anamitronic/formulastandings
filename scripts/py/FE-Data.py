@@ -18,7 +18,7 @@ def InactiveSession():
     f.close()
     # close the connection
     print("FE Script Complete - Inactive Session")
-    SystemExit(0)
+    sys.exit()
 # DRIVER STANDINGS
 # Path to extract from
 path = "https://www.fiaformulae.com/en/results/standings/driver"
