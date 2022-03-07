@@ -4,7 +4,7 @@ import sys
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from datetime import date
+from datetime import datetime
 
 # Message if table was empty or doesn't exist
 def InactiveSession():
@@ -21,7 +21,7 @@ def InactiveSession():
     sys.exit()
 # DRIVER STANDINGS
 # Path to extract from
-path = "https://www.fiaformulae.com/en/results/standings/driver"
+path = "https://www.fiaformulae.com/en/results/standings/driver?championship=202"+datetime.today().strftime('%Y')
    
 # empty list to store table data
 data = []
@@ -66,7 +66,7 @@ DriverJsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('fe-driv
 
 # TEAM STANDINGS
 # Path to extract from
-path = "https://www.fiaformulae.com/en/results/standings/team"
+path = "https://www.fiaformulae.com/en/results/standings/team?championship=202"+datetime.today().strftime('%Y')
    
 # empty list to store table data
 data = []
