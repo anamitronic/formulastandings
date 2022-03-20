@@ -8,4 +8,4 @@ var tabledata=`<tbody>
 </tbody>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='20/03/2022 12:08:55 UTC';
+document.getElementById('lastup').innerHTML='20/03/2022 12:54:42 UTC';
