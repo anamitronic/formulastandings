@@ -32,14 +32,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>6</td>
-      <td>I. Hadjar</td>
-      <td>Hitech Grand Prix</td>
-      <td>10</td>
+      <td>F. Colapinto</td>
+      <td>Van Amersfoort Racing</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>F. Colapinto</td>
-      <td>Van Amersfoort Racing</td>
+      <td>I. Hadjar</td>
+      <td>Hitech Grand Prix</td>
       <td>10</td>
     </tr>
     <tr>
@@ -209,7 +209,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>Van Amersfoort Racing</td>
-      <td>10</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>6</td>
