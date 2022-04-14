@@ -21,7 +21,7 @@ def InactiveSession():
     sys.exit()
 # DRIVER STANDINGS
 # Path to extract from
-path = "https://www.fiaformulae.com/en/results/standings/driver?championship=202"+datetime.today().strftime('%Y')
+path = "https://www.fiaformulae.com/en/results/standings/driver?championship"
    
 # empty list to store table data
 data = []
@@ -66,7 +66,7 @@ DriverJsData="var tabledata=`"+htmlTable+"\n`;\ndocument.getElementById('fe-driv
 
 # TEAM STANDINGS
 # Path to extract from
-path = "https://www.fiaformulae.com/en/results/standings/team?championship=202"+datetime.today().strftime('%Y')
+path = "https://www.fiaformulae.com/en/results/standings/team?championship"
    
 # empty list to store table data
 data = []
