@@ -50,15 +50,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>9</td>
-      <td>J. Correa</td>
-      <td>ART Grand Prix</td>
-      <td>14</td>
+      <td>Z. Maloney</td>
+      <td>Trident</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Z. Maloney</td>
-      <td>Trident</td>
-      <td>13</td>
+      <td>J. Correa</td>
+      <td>ART Grand Prix</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>11</td>
@@ -199,7 +199,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>3</td>
       <td>Trident</td>
-      <td>50</td>
+      <td>52</td>
     </tr>
     <tr>
       <td>4</td>
