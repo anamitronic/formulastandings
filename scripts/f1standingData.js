@@ -4,55 +4,55 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Charles Leclerc LEC</td>
       <td>Ferrari</td>
-      <td>86</td>
+      <td>104</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing RBPT</td>
-      <td>59</td>
+      <td>85</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Sergio Perez PER</td>
       <td>Red Bull Racing RBPT</td>
-      <td>54</td>
+      <td>66</td>
     </tr>
     <tr>
       <td>4</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>49</td>
+      <td>59</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>38</td>
+      <td>53</td>
     </tr>
     <tr>
       <td>6</td>
+      <td>Lewis Hamilton HAM</td>
+      <td>Mercedes</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
       <td>35</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>Lewis Hamilton HAM</td>
-      <td>Mercedes</td>
-      <td>28</td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>Valtteri Bottas BOT</td>
       <td>Alfa Romeo Ferrari</td>
-      <td>24</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>20</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>10</td>
@@ -88,18 +88,18 @@ var tabledata=`<table border="1" class="dataframe">
       <td>15</td>
       <td>Fernando Alonso ALO</td>
       <td>Alpine Renault</td>
-      <td>2</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>Zhou Guanyu ZHO</td>
-      <td>Alfa Romeo Ferrari</td>
-      <td>1</td>
+      <td>Alexander Albon ALB</td>
+      <td>Williams Mercedes</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>Alexander Albon ALB</td>
-      <td>Williams Mercedes</td>
+      <td>Zhou Guanyu ZHO</td>
+      <td>Alfa Romeo Ferrari</td>
       <td>1</td>
     </tr>
     <tr>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='08/05/2022 21:33:53 UTC';
+document.getElementById('lastup').innerHTML='08/05/2022 22:03:17 UTC';
