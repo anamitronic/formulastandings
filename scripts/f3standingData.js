@@ -146,20 +146,20 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>28</td>
+      <td>L. Zendeli</td>
+      <td>Charouz Racing System</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>H. Yeany</td>
       <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>N. Azman</td>
       <td>Hitech Grand Prix</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>L. Zendeli</td>
-      <td>Charouz Racing System</td>
       <td>0</td>
     </tr>
     <tr>
