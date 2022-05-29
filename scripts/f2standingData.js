@@ -4,60 +4,60 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>F. Drugovich</td>
       <td>MP Motorsport</td>
-      <td>86</td>
+      <td>113</td>
     </tr>
     <tr>
       <td>2</td>
       <td>T. Pourchaire</td>
       <td>ART Grand Prix</td>
-      <td>63</td>
+      <td>81</td>
     </tr>
     <tr>
       <td>3</td>
       <td>J. Daruvala</td>
       <td>PREMA Racing</td>
-      <td>49</td>
+      <td>53</td>
     </tr>
     <tr>
       <td>4</td>
       <td>M. Armstrong</td>
       <td>Hitech Grand Prix</td>
-      <td>42</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>5</td>
+      <td>J. Vips</td>
+      <td>Hitech Grand Prix</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>J. Doohan</td>
+      <td>Virtuosi Racing</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>E. Fittipaldi</td>
+      <td>Charouz Racing System</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>L. Lawson</td>
       <td>Carlin</td>
       <td>38</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>L. Sargeant</td>
       <td>Carlin</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>J. Vips</td>
-      <td>Hitech Grand Prix</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>J. Doohan</td>
-      <td>Virtuosi Racing</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>R. Verschoor</td>
-      <td>Trident</td>
-      <td>32</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>E. Fittipaldi</td>
-      <td>Charouz Racing System</td>
+      <td>R. Verschoor</td>
+      <td>Trident</td>
       <td>32</td>
     </tr>
     <tr>
@@ -68,21 +68,21 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>12</td>
+      <td>D. Hauger</td>
+      <td>PREMA Racing</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>A. Iwasa</td>
       <td>DAMS</td>
       <td>28</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>F. Vesti</td>
       <td>ART Grand Prix</td>
       <td>25</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>D. Hauger</td>
-      <td>PREMA Racing</td>
-      <td>24</td>
     </tr>
     <tr>
       <td>15</td>
@@ -112,7 +112,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>20</td>
       <td>M. Sato</td>
       <td>Virtuosi Racing</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>21</td>
@@ -141,47 +141,47 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>MP Motorsport</td>
-      <td>108</td>
+      <td>135</td>
     </tr>
     <tr>
       <td>2</td>
       <td>ART Grand Prix</td>
-      <td>88</td>
+      <td>106</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Hitech Grand Prix</td>
-      <td>76</td>
+      <td>99</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Carlin</td>
-      <td>74</td>
+      <td>PREMA Racing</td>
+      <td>83</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>PREMA Racing</td>
-      <td>73</td>
+      <td>Carlin</td>
+      <td>76</td>
     </tr>
     <tr>
       <td>6</td>
+      <td>Virtuosi Racing</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Charouz Racing System</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>DAMS</td>
       <td>42</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>Trident</td>
       <td>37</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Charouz Racing System</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Virtuosi Racing</td>
-      <td>34</td>
     </tr>
     <tr>
       <td>10</td>
