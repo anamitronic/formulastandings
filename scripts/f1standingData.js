@@ -4,25 +4,25 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing RBPT</td>
-      <td>125</td>
+      <td>150</td>
     </tr>
     <tr>
       <td>2</td>
+      <td>Sergio Perez PER</td>
+      <td>Red Bull Racing RBPT</td>
+      <td>129</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Charles Leclerc LEC</td>
       <td>Ferrari</td>
       <td>116</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Sergio Perez PER</td>
-      <td>Red Bull Racing RBPT</td>
-      <td>110</td>
-    </tr>
-    <tr>
       <td>4</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>84</td>
+      <td>99</td>
     </tr>
     <tr>
       <td>5</td>
@@ -34,13 +34,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>6</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
-      <td>50</td>
+      <td>62</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>48</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>8</td>
@@ -52,43 +52,43 @@ var tabledata=`<table border="1" class="dataframe">
       <td>9</td>
       <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>30</td>
+      <td>31</td>
     </tr>
     <tr>
       <td>10</td>
+      <td>Pierre Gasly GAS</td>
+      <td>AlphaTauri RBPT</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Fernando Alonso ALO</td>
+      <td>Alpine Renault</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>Kevin Magnussen MAG</td>
       <td>Haas Ferrari</td>
       <td>15</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>Daniel Ricciardo RIC</td>
       <td>McLaren Mercedes</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Yuki Tsunoda TSU</td>
-      <td>AlphaTauri RBPT</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Fernando Alonso ALO</td>
-      <td>Alpine Renault</td>
-      <td>10</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>Pierre Gasly GAS</td>
-      <td>AlphaTauri RBPT</td>
-      <td>6</td>
+      <td>Sebastian Vettel VET</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>Sebastian Vettel VET</td>
-      <td>Aston Martin Aramco Mercedes</td>
-      <td>5</td>
+      <td>Yuki Tsunoda TSU</td>
+      <td>AlphaTauri RBPT</td>
+      <td>11</td>
     </tr>
     <tr>
       <td>16</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='12/06/2022 12:53:01 UTC';
+document.getElementById('lastup').innerHTML='12/06/2022 13:13:50 UTC';
