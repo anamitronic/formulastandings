@@ -46,7 +46,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>Valtteri Bottas BOT</td>
       <td>Alfa Romeo Ferrari</td>
-      <td>44</td>
+      <td>46</td>
     </tr>
     <tr>
       <td>9</td>
@@ -58,7 +58,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>Fernando Alonso ALO</td>
       <td>Alpine Renault</td>
-      <td>22</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>11</td>
@@ -94,7 +94,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>16</td>
       <td>Zhou Guanyu ZHO</td>
       <td>Alfa Romeo Ferrari</td>
-      <td>3</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>17</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='19/06/2022 23:02:43 UTC';
+document.getElementById('lastup').innerHTML='19/06/2022 23:33:50 UTC';
