@@ -155,12 +155,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>Alpine Renault</td>
-      <td>61</td>
+      <td>57</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Alfa Romeo Ferrari</td>
-      <td>47</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>7</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='19/06/2022 23:33:50 UTC';
+document.getElementById('lastup').innerHTML='20/06/2022 00:29:30 UTC';
