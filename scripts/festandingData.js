@@ -34,7 +34,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>6</td>
       <td>Lucas Di Grassi</td>
       <td>ROKiT Venturi Racing</td>
-      <td>112</td>
+      <td>111</td>
     </tr>
     <tr>
       <td>7</td>
@@ -52,7 +52,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>9</td>
       <td>Jake Dennis</td>
       <td>Avalanche Andretti Formula E</td>
-      <td>97</td>
+      <td>98</td>
     </tr>
     <tr>
       <td>10</td>
@@ -146,7 +146,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>2</td>
       <td>ROKiT Venturi Racing</td>
-      <td>256</td>
+      <td>255</td>
     </tr>
     <tr>
       <td>3</td>
@@ -171,7 +171,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Avalanche Andretti Formula E</td>
-      <td>111</td>
+      <td>112</td>
     </tr>
     <tr>
       <td>8</td>
