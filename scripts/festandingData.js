@@ -4,13 +4,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Stoffel Vandoorne</td>
       <td>Mercedes-EQ Formula E Team</td>
-      <td>185</td>
+      <td>195</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Mitch Evans</td>
       <td>Jaguar TCS Racing</td>
-      <td>149</td>
+      <td>174</td>
     </tr>
     <tr>
       <td>3</td>
@@ -22,55 +22,55 @@ var tabledata=`<table border="1" class="dataframe">
       <td>4</td>
       <td>Jean-Éric Vergne</td>
       <td>DS TECHEETAH</td>
-      <td>128</td>
+      <td>136</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>António Félix Da Costa</td>
-      <td>DS TECHEETAH</td>
-      <td>116</td>
+      <td>Lucas Di Grassi</td>
+      <td>ROKiT Venturi Racing</td>
+      <td>126</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Lucas Di Grassi</td>
-      <td>ROKiT Venturi Racing</td>
-      <td>111</td>
+      <td>António Félix Da Costa</td>
+      <td>DS TECHEETAH</td>
+      <td>118</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Robin Frijns</td>
       <td>Envision Racing</td>
-      <td>110</td>
+      <td>114</td>
     </tr>
     <tr>
       <td>8</td>
+      <td>Jake Dennis</td>
+      <td>Avalanche Andretti Formula E</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>Nyck De Vries</td>
       <td>Mercedes-EQ Formula E Team</td>
       <td>106</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Jake Dennis</td>
-      <td>Avalanche Andretti Formula E</td>
-      <td>98</td>
-    </tr>
-    <tr>
       <td>10</td>
       <td>Pascal Wehrlein</td>
       <td>TAG Heuer Porsche Formula E Team</td>
-      <td>65</td>
+      <td>71</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>André Lotterer</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>Nick Cassidy</td>
+      <td>Envision Racing</td>
       <td>63</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Nick Cassidy</td>
-      <td>Envision Racing</td>
-      <td>62</td>
+      <td>André Lotterer</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>13</td>
@@ -80,27 +80,27 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>14</td>
+      <td>Oliver Rowland</td>
+      <td>Mahindra Racing</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>Sébastien Buemi</td>
       <td>Nissan e.Dams</td>
       <td>28</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>Alexander Sims</td>
       <td>Mahindra Racing</td>
       <td>14</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>Oliver Askew</td>
       <td>Avalanche Andretti Formula E</td>
       <td>14</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Oliver Rowland</td>
-      <td>Mahindra Racing</td>
-      <td>11</td>
     </tr>
     <tr>
       <td>18</td>
@@ -128,6 +128,12 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>22</td>
+      <td>Norman Nato</td>
+      <td>Jaguar TCS Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>Antonio Giovinazzi</td>
       <td>DRAGON / PENSKE AUTOSPORT</td>
       <td>0</td>
@@ -141,47 +147,47 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Mercedes-EQ Formula E Team</td>
-      <td>291</td>
+      <td>301</td>
     </tr>
     <tr>
       <td>2</td>
       <td>ROKiT Venturi Racing</td>
-      <td>255</td>
+      <td>270</td>
     </tr>
     <tr>
       <td>3</td>
       <td>DS TECHEETAH</td>
-      <td>244</td>
+      <td>254</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Jaguar TCS Racing</td>
-      <td>200</td>
+      <td>225</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Envision Racing</td>
-      <td>172</td>
+      <td>177</td>
     </tr>
     <tr>
       <td>6</td>
       <td>TAG Heuer Porsche Formula E Team</td>
-      <td>128</td>
+      <td>134</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Avalanche Andretti Formula E</td>
-      <td>112</td>
+      <td>125</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Nissan e.Dams</td>
-      <td>34</td>
+      <td>Mahindra Racing</td>
+      <td>46</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Mahindra Racing</td>
-      <td>25</td>
+      <td>Nissan e.Dams</td>
+      <td>34</td>
     </tr>
     <tr>
       <td>10</td>
