@@ -103,12 +103,6 @@ var tabledata=`<table border="1" class="dataframe">
       <td>15</td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>O. Caldwell</td>
-      <td>Campos Racing</td>
-      <td>8</td>
-    </tr>
-    <tr>
       <td>20</td>
       <td>M. Sato</td>
       <td>Virtuosi Racing</td>
@@ -130,6 +124,12 @@ var tabledata=`<table border="1" class="dataframe">
       <td>24</td>
       <td>A. Cordeel</td>
       <td>Van Amersfoort Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>L. Zendeli</td>
+      <td>Campos Racing</td>
       <td>0</td>
     </tr>
   </tbody>
