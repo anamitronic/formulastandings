@@ -4,25 +4,25 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Stoffel Vandoorne</td>
       <td>Mercedes-EQ Formula E Team</td>
-      <td>195</td>
+      <td>213</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Mitch Evans</td>
       <td>Jaguar TCS Racing</td>
-      <td>174</td>
+      <td>180</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Edoardo Mortara</td>
       <td>ROKiT Venturi Racing</td>
-      <td>144</td>
+      <td>169</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Jean-Éric Vergne</td>
       <td>DS TECHEETAH</td>
-      <td>136</td>
+      <td>144</td>
     </tr>
     <tr>
       <td>5</td>
@@ -32,21 +32,21 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>6</td>
-      <td>António Félix Da Costa</td>
-      <td>DS TECHEETAH</td>
-      <td>118</td>
+      <td>Jake Dennis</td>
+      <td>Avalanche Andretti Formula E</td>
+      <td>126</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Robin Frijns</td>
       <td>Envision Racing</td>
-      <td>114</td>
+      <td>126</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Jake Dennis</td>
-      <td>Avalanche Andretti Formula E</td>
-      <td>111</td>
+      <td>António Félix Da Costa</td>
+      <td>DS TECHEETAH</td>
+      <td>122</td>
     </tr>
     <tr>
       <td>9</td>
@@ -64,7 +64,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>11</td>
       <td>Nick Cassidy</td>
       <td>Envision Racing</td>
-      <td>63</td>
+      <td>68</td>
     </tr>
     <tr>
       <td>12</td>
@@ -88,18 +88,18 @@ var tabledata=`<table border="1" class="dataframe">
       <td>15</td>
       <td>Sébastien Buemi</td>
       <td>Nissan e.Dams</td>
-      <td>28</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>Alexander Sims</td>
-      <td>Mahindra Racing</td>
-      <td>14</td>
+      <td>Oliver Askew</td>
+      <td>Avalanche Andretti Formula E</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>Oliver Askew</td>
-      <td>Avalanche Andretti Formula E</td>
+      <td>Alexander Sims</td>
+      <td>Mahindra Racing</td>
       <td>14</td>
     </tr>
     <tr>
@@ -138,6 +138,12 @@ var tabledata=`<table border="1" class="dataframe">
       <td>DRAGON / PENSKE AUTOSPORT</td>
       <td>0</td>
     </tr>
+    <tr>
+      <td>24</td>
+      <td>Sacha Fenestraz</td>
+      <td>DRAGON / PENSKE AUTOSPORT</td>
+      <td>0</td>
+    </tr>
   </tbody>
 </table>
 `;
@@ -147,37 +153,37 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Mercedes-EQ Formula E Team</td>
-      <td>301</td>
+      <td>319</td>
     </tr>
     <tr>
       <td>2</td>
       <td>ROKiT Venturi Racing</td>
-      <td>270</td>
+      <td>295</td>
     </tr>
     <tr>
       <td>3</td>
       <td>DS TECHEETAH</td>
-      <td>254</td>
+      <td>266</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Jaguar TCS Racing</td>
-      <td>225</td>
+      <td>231</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Envision Racing</td>
-      <td>177</td>
+      <td>194</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>TAG Heuer Porsche Formula E Team</td>
-      <td>134</td>
+      <td>Avalanche Andretti Formula E</td>
+      <td>150</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Avalanche Andretti Formula E</td>
-      <td>125</td>
+      <td>TAG Heuer Porsche Formula E Team</td>
+      <td>134</td>
     </tr>
     <tr>
       <td>8</td>
@@ -187,7 +193,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>9</td>
       <td>Nissan e.Dams</td>
-      <td>34</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>10</td>
