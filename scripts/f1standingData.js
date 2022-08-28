@@ -4,31 +4,31 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing RBPT</td>
-      <td>258</td>
+      <td>284</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Charles Leclerc LEC</td>
-      <td>Ferrari</td>
-      <td>178</td>
+      <td>Sergio Perez PER</td>
+      <td>Red Bull Racing RBPT</td>
+      <td>191</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Sergio Perez PER</td>
-      <td>Red Bull Racing RBPT</td>
-      <td>173</td>
+      <td>Charles Leclerc LEC</td>
+      <td>Ferrari</td>
+      <td>186</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>George Russell RUS</td>
-      <td>Mercedes</td>
-      <td>158</td>
+      <td>Carlos Sainz SAI</td>
+      <td>Ferrari</td>
+      <td>171</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Carlos Sainz SAI</td>
-      <td>Ferrari</td>
-      <td>156</td>
+      <td>George Russell RUS</td>
+      <td>Mercedes</td>
+      <td>170</td>
     </tr>
     <tr>
       <td>6</td>
@@ -46,19 +46,19 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>58</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Valtteri Bottas BOT</td>
-      <td>Alfa Romeo Ferrari</td>
-      <td>46</td>
+      <td>Fernando Alonso ALO</td>
+      <td>Alpine Renault</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Fernando Alonso ALO</td>
-      <td>Alpine Renault</td>
-      <td>41</td>
+      <td>Valtteri Bottas BOT</td>
+      <td>Alfa Romeo Ferrari</td>
+      <td>46</td>
     </tr>
     <tr>
       <td>11</td>
@@ -68,21 +68,21 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>12</td>
+      <td>Sebastian Vettel VET</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>Daniel Ricciardo RIC</td>
       <td>McLaren Mercedes</td>
       <td>19</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>Pierre Gasly GAS</td>
       <td>AlphaTauri RBPT</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Sebastian Vettel VET</td>
-      <td>Aston Martin Aramco Mercedes</td>
-      <td>16</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>15</td>
@@ -104,15 +104,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>18</td>
-      <td>Lance Stroll STR</td>
-      <td>Aston Martin Aramco Mercedes</td>
+      <td>Alexander Albon ALB</td>
+      <td>Williams Mercedes</td>
       <td>4</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>Alexander Albon ALB</td>
-      <td>Williams Mercedes</td>
-      <td>3</td>
+      <td>Lance Stroll STR</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>20</td>
@@ -135,22 +135,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing RBPT</td>
-      <td>431</td>
+      <td>475</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Ferrari</td>
-      <td>334</td>
+      <td>357</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Mercedes</td>
-      <td>304</td>
+      <td>316</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Alpine Renault</td>
-      <td>99</td>
+      <td>115</td>
     </tr>
     <tr>
       <td>5</td>
@@ -170,20 +170,20 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>8</td>
       <td>AlphaTauri RBPT</td>
-      <td>27</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>20</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Williams Mercedes</td>
-      <td>3</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='28/08/2022 14:34:08 UTC';
+document.getElementById('lastup').innerHTML='28/08/2022 15:03:17 UTC';
