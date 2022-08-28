@@ -116,14 +116,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>21</td>
-      <td>B. Benavides</td>
-      <td>Carlin</td>
+      <td>O. Goethe</td>
+      <td>Campos Racing</td>
       <td>3</td>
     </tr>
     <tr>
       <td>22</td>
-      <td>O. Goethe</td>
-      <td>Campos Racing</td>
+      <td>B. Benavides</td>
+      <td>Carlin</td>
       <td>3</td>
     </tr>
     <tr>
