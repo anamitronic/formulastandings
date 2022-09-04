@@ -121,7 +121,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>5</td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>A. Cordeel</td>
       <td>Van Amersfoort Racing</td>
       <td>0</td>
