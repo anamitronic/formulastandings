@@ -58,7 +58,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>J. Vips</td>
       <td>Hitech Grand Prix</td>
-      <td>109</td>
+      <td>110</td>
     </tr>
     <tr>
       <td>11</td>
@@ -112,7 +112,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>22</td>
       <td>M. Sato</td>
       <td>Virtuosi Racing</td>
-      <td>7</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>23</td>
@@ -161,12 +161,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>Hitech Grand Prix</td>
-      <td>200</td>
+      <td>201</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Virtuosi Racing</td>
-      <td>133</td>
+      <td>132</td>
     </tr>
     <tr>
       <td>7</td>
