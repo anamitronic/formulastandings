@@ -4,7 +4,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>F. Drugovich</td>
       <td>MP Motorsport</td>
-      <td>233</td>
+      <td>239</td>
     </tr>
     <tr>
       <td>2</td>
@@ -20,63 +20,63 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>4</td>
-      <td>J. Doohan</td>
-      <td>Virtuosi Racing</td>
-      <td>123</td>
+      <td>A. Iwasa</td>
+      <td>DAMS</td>
+      <td>129</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>L. Lawson</td>
-      <td>Carlin</td>
-      <td>122</td>
+      <td>J. Daruvala</td>
+      <td>PREMA Racing</td>
+      <td>126</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>A. Iwasa</td>
-      <td>DAMS</td>
-      <td>114</td>
+      <td>J. Doohan</td>
+      <td>Virtuosi Racing</td>
+      <td>125</td>
     </tr>
     <tr>
       <td>7</td>
       <td>E. Fittipaldi</td>
       <td>Charouz Racing System</td>
-      <td>111</td>
+      <td>123</td>
     </tr>
     <tr>
       <td>8</td>
+      <td>L. Lawson</td>
+      <td>Carlin</td>
+      <td>122</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>F. Vesti</td>
+      <td>ART Grand Prix</td>
+      <td>117</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>J. Vips</td>
       <td>Hitech Grand Prix</td>
       <td>109</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>J. Daruvala</td>
-      <td>PREMA Racing</td>
-      <td>101</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>F. Vesti</td>
-      <td>ART Grand Prix</td>
-      <td>99</td>
-    </tr>
-    <tr>
       <td>11</td>
+      <td>D. Hauger</td>
+      <td>PREMA Racing</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>M. Armstrong</td>
       <td>Hitech Grand Prix</td>
       <td>91</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>R. Verschoor</td>
       <td>Trident</td>
-      <td>89</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>D. Hauger</td>
-      <td>PREMA Racing</td>
-      <td>86</td>
+      <td>91</td>
     </tr>
     <tr>
       <td>14</td>
@@ -88,13 +88,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>15</td>
       <td>C. Novalak</td>
       <td>MP Motorsport</td>
-      <td>36</td>
+      <td>38</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>17</td>
       <td>D. Beckmann</td>
       <td>Van Amersfoort Racing</td>
-      <td>14</td>
+      <td>22</td>
     </tr>
     <tr>
       <td>20</td>
@@ -106,7 +106,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>21</td>
       <td>A. Cordeel</td>
       <td>Van Amersfoort Racing</td>
-      <td>8</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>22</td>
@@ -140,13 +140,13 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>MP Motorsport</td>
-      <td>269</td>
+      <td>ART Grand Prix</td>
+      <td>281</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>ART Grand Prix</td>
-      <td>263</td>
+      <td>MP Motorsport</td>
+      <td>277</td>
     </tr>
     <tr>
       <td>3</td>
@@ -155,33 +155,33 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>4</td>
+      <td>PREMA Racing</td>
+      <td>222</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>Hitech Grand Prix</td>
       <td>200</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>PREMA Racing</td>
-      <td>187</td>
-    </tr>
-    <tr>
       <td>6</td>
       <td>DAMS</td>
-      <td>132</td>
+      <td>147</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Virtuosi Racing</td>
-      <td>129</td>
+      <td>131</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Charouz Racing System</td>
-      <td>115</td>
+      <td>127</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Trident</td>
-      <td>94</td>
+      <td>96</td>
     </tr>
     <tr>
       <td>10</td>
@@ -191,7 +191,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>11</td>
       <td>Van Amersfoort Racing</td>
-      <td>44</td>
+      <td>56</td>
     </tr>
   </tbody>
 </table>
