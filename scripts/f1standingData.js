@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='10/10/2022 07:54:53 UTC';
+document.getElementById('lastup').innerHTML='10/10/2022 08:14:31 UTC';
