@@ -4,25 +4,25 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing RBPT</td>
-      <td>366</td>
+      <td>391</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Sergio Perez PER</td>
-      <td>Red Bull Racing RBPT</td>
-      <td>253</td>
+      <td>Charles Leclerc LEC</td>
+      <td>Ferrari</td>
+      <td>267</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Charles Leclerc LEC</td>
-      <td>Ferrari</td>
-      <td>252</td>
+      <td>Sergio Perez PER</td>
+      <td>Red Bull Racing RBPT</td>
+      <td>265</td>
     </tr>
     <tr>
       <td>4</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>207</td>
+      <td>218</td>
     </tr>
     <tr>
       <td>5</td>
@@ -34,13 +34,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>6</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
-      <td>180</td>
+      <td>198</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>101</td>
+      <td>109</td>
     </tr>
     <tr>
       <td>8</td>
@@ -52,7 +52,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>9</td>
       <td>Fernando Alonso ALO</td>
       <td>Alpine Renault</td>
-      <td>65</td>
+      <td>71</td>
     </tr>
     <tr>
       <td>10</td>
@@ -64,7 +64,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>11</td>
       <td>Sebastian Vettel VET</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>32</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>12</td>
@@ -74,15 +74,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>13</td>
-      <td>Pierre Gasly GAS</td>
-      <td>AlphaTauri RBPT</td>
-      <td>23</td>
+      <td>Kevin Magnussen MAG</td>
+      <td>Haas Ferrari</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>Kevin Magnussen MAG</td>
-      <td>Haas Ferrari</td>
-      <td>22</td>
+      <td>Pierre Gasly GAS</td>
+      <td>AlphaTauri RBPT</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>15</td>
@@ -100,7 +100,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>17</td>
       <td>Yuki Tsunoda TSU</td>
       <td>AlphaTauri RBPT</td>
-      <td>11</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>18</td>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='23/10/2022 20:43:31 UTC';
+document.getElementById('lastup').innerHTML='23/10/2022 21:06:22 UTC';
