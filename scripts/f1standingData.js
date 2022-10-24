@@ -156,7 +156,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>Alpine Renault</td>
-      <td>149</td>
+      <td>144</td>
     </tr>
     <tr>
       <td>5</td>
@@ -171,17 +171,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>49</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Haas Ferrari</td>
-      <td>36</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>9</td>
       <td>AlphaTauri RBPT</td>
-      <td>35</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>10</td>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='24/10/2022 00:52:28 UTC';
+document.getElementById('lastup').innerHTML='24/10/2022 03:43:52 UTC';
