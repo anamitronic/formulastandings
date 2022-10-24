@@ -46,13 +46,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>78</td>
+      <td>79</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Fernando Alonso ALO</td>
       <td>Alpine Renault</td>
-      <td>71</td>
+      <td>65</td>
     </tr>
     <tr>
       <td>10</td>
@@ -64,7 +64,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>11</td>
       <td>Sebastian Vettel VET</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>36</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>12</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>Kevin Magnussen MAG</td>
       <td>Haas Ferrari</td>
-      <td>24</td>
+      <td>26</td>
     </tr>
     <tr>
       <td>14</td>
@@ -92,14 +92,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>16</td>
-      <td>Mick Schumacher MSC</td>
-      <td>Haas Ferrari</td>
-      <td>12</td>
+      <td>Yuki Tsunoda TSU</td>
+      <td>AlphaTauri RBPT</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>Yuki Tsunoda TSU</td>
-      <td>AlphaTauri RBPT</td>
+      <td>Mick Schumacher MSC</td>
+      <td>Haas Ferrari</td>
       <td>12</td>
     </tr>
     <tr>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='24/10/2022 10:12:59 UTC';
+document.getElementById('lastup').innerHTML='24/10/2022 10:54:28 UTC';
