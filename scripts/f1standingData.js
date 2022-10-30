@@ -4,49 +4,49 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing RBPT</td>
-      <td>391</td>
+      <td>416</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Charles Leclerc LEC</td>
-      <td>Ferrari</td>
-      <td>267</td>
+      <td>Sergio Perez PER</td>
+      <td>Red Bull Racing RBPT</td>
+      <td>280</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Sergio Perez PER</td>
-      <td>Red Bull Racing RBPT</td>
-      <td>265</td>
+      <td>Charles Leclerc LEC</td>
+      <td>Ferrari</td>
+      <td>275</td>
     </tr>
     <tr>
       <td>4</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>218</td>
+      <td>231</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Carlos Sainz SAI</td>
-      <td>Ferrari</td>
-      <td>202</td>
+      <td>Lewis Hamilton HAM</td>
+      <td>Mercedes</td>
+      <td>216</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Lewis Hamilton HAM</td>
-      <td>Mercedes</td>
-      <td>198</td>
+      <td>Carlos Sainz SAI</td>
+      <td>Ferrari</td>
+      <td>212</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>109</td>
+      <td>111</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>78</td>
+      <td>82</td>
     </tr>
     <tr>
       <td>9</td>
@@ -58,7 +58,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>Valtteri Bottas BOT</td>
       <td>Alfa Romeo Ferrari</td>
-      <td>46</td>
+      <td>47</td>
     </tr>
     <tr>
       <td>11</td>
@@ -70,7 +70,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>12</td>
       <td>Daniel Ricciardo RIC</td>
       <td>McLaren Mercedes</td>
-      <td>29</td>
+      <td>35</td>
     </tr>
     <tr>
       <td>13</td>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='30/10/2022 22:04:22 UTC';
+document.getElementById('lastup').innerHTML='30/10/2022 22:38:27 UTC';
