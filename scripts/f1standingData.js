@@ -46,13 +46,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>Esteban Ocon OCO</td>
       <td>Alpine Renault</td>
-      <td>79</td>
+      <td>78</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Fernando Alonso ALO</td>
       <td>Alpine Renault</td>
-      <td>65</td>
+      <td>71</td>
     </tr>
     <tr>
       <td>10</td>
@@ -64,7 +64,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>11</td>
       <td>Sebastian Vettel VET</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>38</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>12</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>Kevin Magnussen MAG</td>
       <td>Haas Ferrari</td>
-      <td>26</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>14</td>
@@ -92,14 +92,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>16</td>
-      <td>Yuki Tsunoda TSU</td>
-      <td>AlphaTauri RBPT</td>
-      <td>13</td>
+      <td>Mick Schumacher MSC</td>
+      <td>Haas Ferrari</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>17</td>
-      <td>Mick Schumacher MSC</td>
-      <td>Haas Ferrari</td>
+      <td>Yuki Tsunoda TSU</td>
+      <td>AlphaTauri RBPT</td>
       <td>12</td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>Alpine Renault</td>
-      <td>144</td>
+      <td>149</td>
     </tr>
     <tr>
       <td>5</td>
@@ -171,17 +171,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>51</td>
+      <td>49</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Haas Ferrari</td>
-      <td>38</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>9</td>
       <td>AlphaTauri RBPT</td>
-      <td>36</td>
+      <td>35</td>
     </tr>
     <tr>
       <td>10</td>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='24/10/2022 23:47:21 UTC';
+document.getElementById('lastup').innerHTML='30/10/2022 00:42:29 UTC';
