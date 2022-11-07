@@ -121,15 +121,15 @@ var tabledata=`<table border="1" class="dataframe">
       <td>6</td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>C. Williams</td>
-      <td>Trident</td>
-      <td>5</td>
-    </tr>
-    <tr>
       <td>26</td>
       <td>T. Calderón</td>
       <td>Charouz Racing System</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Z. Maloney</td>
+      <td>Trident</td>
       <td>0</td>
     </tr>
   </tbody>
