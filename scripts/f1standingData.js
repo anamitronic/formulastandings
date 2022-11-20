@@ -62,14 +62,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>11</td>
-      <td>Sebastian Vettel VET</td>
-      <td>Aston Martin Aramco Mercedes</td>
+      <td>Daniel Ricciardo RIC</td>
+      <td>McLaren Mercedes</td>
       <td>37</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Daniel Ricciardo RIC</td>
-      <td>McLaren Mercedes</td>
+      <td>Sebastian Vettel VET</td>
+      <td>Aston Martin Aramco Mercedes</td>
       <td>37</td>
     </tr>
     <tr>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='20/11/2022 15:03:15 UTC';
+document.getElementById('lastup').innerHTML='20/11/2022 15:35:36 UTC';
