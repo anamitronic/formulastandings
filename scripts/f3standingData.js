@@ -86,14 +86,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>15</td>
-      <td>H. Barter</td>
-      <td>Campos Racing</td>
+      <td>Z. O'Sullivan</td>
+      <td>PREMA Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>Z. O'Sullivan</td>
-      <td>PREMA Racing</td>
+      <td>H. Barter</td>
+      <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
@@ -128,32 +128,32 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>22</td>
-      <td>O. Gray</td>
-      <td>Rodin Carlin</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>23</td>
       <td>I. Cohen</td>
       <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>H. Yeany</td>
-      <td>Rodin Carlin</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>23</td>
       <td>R. Villagómez</td>
       <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>S. Floersch</td>
       <td>PHM Racing by Charouz</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>H. Yeany</td>
+      <td>Rodin Carlin</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>O. Gray</td>
+      <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
     <tr>
