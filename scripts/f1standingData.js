@@ -129,46 +129,46 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>43</td>
+      <td>87</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>23</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Mercedes</td>
-      <td>16</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Ferrari</td>
-      <td>12</td>
+      <td>26</td>
     </tr>
     <tr>
       <td>5</td>
+      <td>Alpine Renault</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Alfa Romeo Ferrari</td>
       <td>4</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Alpine Renault</td>
-      <td>2</td>
-    </tr>
-    <tr>
       <td>7</td>
-      <td>Williams Mercedes</td>
+      <td>Haas Ferrari</td>
       <td>1</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>AlphaTauri Honda RBPT</td>
-      <td>0</td>
+      <td>Williams Mercedes</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Haas Ferrari</td>
+      <td>AlphaTauri Honda RBPT</td>
       <td>0</td>
     </tr>
     <tr>
@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='19/03/2023 18:33:24 UTC';
+document.getElementById('lastup').innerHTML='19/03/2023 19:01:36 UTC';
