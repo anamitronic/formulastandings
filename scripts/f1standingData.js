@@ -133,13 +133,13 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>2</td>
-      <td>Aston Martin Aramco Mercedes</td>
-      <td>38</td>
+      <td>Mercedes</td>
+      <td>41</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Mercedes</td>
-      <td>38</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>35</td>
     </tr>
     <tr>
       <td>4</td>
@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='19/03/2023 19:30:55 UTC';
+document.getElementById('lastup').innerHTML='19/03/2023 20:03:16 UTC';
