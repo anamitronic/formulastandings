@@ -129,17 +129,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>87</td>
+      <td>123</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>38</td>
+      <td>65</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Mercedes</td>
-      <td>38</td>
+      <td>56</td>
     </tr>
     <tr>
       <td>4</td>
@@ -148,36 +148,36 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>5</td>
+      <td>McLaren Mercedes</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Alpine Renault</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Alfa Romeo Ferrari</td>
-      <td>4</td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>Haas Ferrari</td>
-      <td>1</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Williams Mercedes</td>
-      <td>1</td>
+      <td>Alfa Romeo Ferrari</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>9</td>
       <td>AlphaTauri Honda RBPT</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>McLaren Mercedes</td>
-      <td>0</td>
+      <td>Williams Mercedes</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='02/04/2023 08:04:47 UTC';
+document.getElementById('lastup').innerHTML='02/04/2023 08:31:01 UTC';
