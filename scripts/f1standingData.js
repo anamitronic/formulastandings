@@ -129,27 +129,27 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>137</td>
+      <td>166</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>69</td>
+      <td>83</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Mercedes</td>
-      <td>63</td>
+      <td>69</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Ferrari</td>
-      <td>37</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>5</td>
       <td>McLaren Mercedes</td>
-      <td>12</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>6</td>
@@ -162,17 +162,17 @@ var tabledata=`<table border="1" class="dataframe">
       <td>7</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>Alfa Romeo Ferrari</td>
       <td>6</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>AlphaTauri Honda RBPT</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>Williams Mercedes</td>
       <td>1</td>
     </tr>
@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='30/04/2023 12:44:34 UTC';
+document.getElementById('lastup').innerHTML='30/04/2023 13:04:14 UTC';
