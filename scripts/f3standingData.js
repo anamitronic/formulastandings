@@ -4,114 +4,114 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>G. Bortoleto</td>
       <td>Trident</td>
-      <td>58</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>2</td>
       <td>G. Saucy</td>
       <td>ART Grand Prix</td>
-      <td>38</td>
+      <td>46</td>
     </tr>
     <tr>
       <td>3</td>
+      <td>J. Martí</td>
+      <td>Campos Racing</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>L. Fornaroli</td>
+      <td>Trident</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>D. Beganovic</td>
       <td>PREMA Racing</td>
       <td>28</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>G. Minì</td>
       <td>Hitech Pulse-Eight</td>
       <td>28</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>J. Martí</td>
-      <td>Campos Racing</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>7</td>
       <td>O. Goethe</td>
       <td>Trident</td>
       <td>23</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>P. Aron</td>
       <td>PREMA Racing</td>
-      <td>22</td>
+      <td>23</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>Z. O'Sullivan</td>
       <td>PREMA Racing</td>
       <td>20</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>L. Fornaroli</td>
-      <td>Trident</td>
-      <td>19</td>
-    </tr>
-    <tr>
       <td>10</td>
-      <td>L. Browning</td>
-      <td>Hitech Pulse-Eight</td>
-      <td>14</td>
+      <td>F. Colapinto</td>
+      <td>MP Motorsport</td>
+      <td>17</td>
     </tr>
     <tr>
       <td>11</td>
       <td>S. Montoya</td>
       <td>Hitech Pulse-Eight</td>
-      <td>12</td>
+      <td>17</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>F. Colapinto</td>
-      <td>MP Motorsport</td>
-      <td>10</td>
+      <td>L. Browning</td>
+      <td>Hitech Pulse-Eight</td>
+      <td>17</td>
     </tr>
     <tr>
       <td>13</td>
       <td>C. Collet</td>
       <td>Van Amersfoort Racing</td>
-      <td>8</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>14</td>
+      <td>T. Barnard</td>
+      <td>Jenzer Motorsport</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>K. Frederick</td>
       <td>ART Grand Prix</td>
       <td>7</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>C. Mansell</td>
       <td>Campos Racing</td>
       <td>4</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>J. Edgar</td>
       <td>MP Motorsport</td>
       <td>2</td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>T. Barnard</td>
-      <td>Jenzer Motorsport</td>
-      <td>2</td>
-    </tr>
-    <tr>
       <td>18</td>
-      <td>H. Barter</td>
-      <td>Campos Racing</td>
+      <td>N. Tsolov</td>
+      <td>ART Grand Prix</td>
       <td>0</td>
     </tr>
     <tr>
       <td>19</td>
-      <td>N. Tsolov</td>
-      <td>ART Grand Prix</td>
+      <td>H. Barter</td>
+      <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
@@ -164,20 +164,20 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>28</td>
-      <td>R. Faria</td>
+      <td>P. Wisnicki</td>
       <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
     <tr>
       <td>29</td>
-      <td>A. García</td>
-      <td>Jenzer Motorsport</td>
+      <td>R. Faria</td>
+      <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
     <tr>
       <td>30</td>
-      <td>P. Wisnicki</td>
-      <td>PHM Racing by Charouz</td>
+      <td>A. García</td>
+      <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -189,42 +189,42 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Trident</td>
-      <td>100</td>
+      <td>114</td>
     </tr>
     <tr>
       <td>2</td>
       <td>PREMA Racing</td>
-      <td>70</td>
+      <td>71</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Hitech Pulse-Eight</td>
-      <td>54</td>
+      <td>62</td>
     </tr>
     <tr>
       <td>4</td>
       <td>ART Grand Prix</td>
-      <td>45</td>
+      <td>53</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Campos Racing</td>
-      <td>29</td>
+      <td>39</td>
     </tr>
     <tr>
       <td>6</td>
       <td>MP Motorsport</td>
-      <td>12</td>
+      <td>19</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Van Amersfoort Racing</td>
-      <td>8</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Jenzer Motorsport</td>
-      <td>2</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>9</td>
