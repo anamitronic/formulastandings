@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='25/06/2023 06:39:07 UTC';
+document.getElementById('lastup').innerHTML='25/06/2023 07:02:38 UTC';
