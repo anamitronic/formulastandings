@@ -38,15 +38,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>7</td>
-      <td>E. Fittipaldi</td>
-      <td>Rodin Carlin</td>
-      <td>57</td>
+      <td>V. Martins</td>
+      <td>ART Grand Prix</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>V. Martins</td>
-      <td>ART Grand Prix</td>
-      <td>56</td>
+      <td>E. Fittipaldi</td>
+      <td>Rodin Carlin</td>
+      <td>57</td>
     </tr>
     <tr>
       <td>9</td>
@@ -146,7 +146,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>2</td>
       <td>ART Grand Prix</td>
-      <td>161</td>
+      <td>163</td>
     </tr>
     <tr>
       <td>3</td>
