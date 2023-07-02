@@ -16,19 +16,19 @@ var tabledata=`<table border="1" class="dataframe">
       <td>3</td>
       <td>Fernando Alonso ALO</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>129</td>
+      <td>131</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
-      <td>108</td>
+      <td>106</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>86</td>
+      <td>82</td>
     </tr>
     <tr>
       <td>6</td>
@@ -40,13 +40,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>7</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>70</td>
+      <td>72</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Lance Stroll STR</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>43</td>
+      <td>44</td>
     </tr>
     <tr>
       <td>9</td>
@@ -58,13 +58,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>22</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>11</td>
       <td>Pierre Gasly GAS</td>
       <td>Alpine Renault</td>
-      <td>17</td>
+      <td>16</td>
     </tr>
     <tr>
       <td>12</td>
@@ -139,22 +139,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>3</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>172</td>
+      <td>175</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Ferrari</td>
-      <td>158</td>
+      <td>154</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Alpine Renault</td>
-      <td>48</td>
+      <td>47</td>
     </tr>
     <tr>
       <td>6</td>
       <td>McLaren Mercedes</td>
-      <td>27</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>7</td>
@@ -180,4 +180,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='02/07/2023 20:02:43 UTC';
+document.getElementById('lastup').innerHTML='02/07/2023 20:30:55 UTC';
