@@ -116,26 +116,26 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>20</td>
-      <td>S. Floersch</td>
-      <td>PHM Racing by Charouz</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>21</td>
       <td>N. Bedrin</td>
       <td>Jenzer Motorsport</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>N. Tsolov</td>
       <td>ART Grand Prix</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>T. Smith</td>
       <td>Van Amersfoort Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>H. Yeany</td>
+      <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
     <tr>
@@ -152,8 +152,8 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>26</td>
-      <td>H. Yeany</td>
-      <td>Rodin Carlin</td>
+      <td>S. Floersch</td>
+      <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
     <tr>
@@ -170,14 +170,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>30</td>
-      <td>A. García</td>
-      <td>Jenzer Motorsport</td>
+      <td>M. Cresswell</td>
+      <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
     <tr>
       <td>31</td>
-      <td>M. Cresswell</td>
-      <td>PHM Racing by Charouz</td>
+      <td>A. García</td>
+      <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -228,12 +228,12 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>9</td>
-      <td>PHM Racing by Charouz</td>
-      <td>2</td>
+      <td>Rodin Carlin</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Rodin Carlin</td>
+      <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
   </tbody>
