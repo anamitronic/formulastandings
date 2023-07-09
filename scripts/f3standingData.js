@@ -134,14 +134,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>23</td>
-      <td>A. García</td>
-      <td>Jenzer Motorsport</td>
+      <td>T. Smith</td>
+      <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>24</td>
-      <td>T. Smith</td>
-      <td>Van Amersfoort Racing</td>
+      <td>A. García</td>
+      <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
