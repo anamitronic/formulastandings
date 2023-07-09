@@ -46,7 +46,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>L. Fornaroli</td>
       <td>Trident</td>
-      <td>60</td>
+      <td>62</td>
     </tr>
     <tr>
       <td>9</td>
@@ -189,7 +189,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Trident</td>
-      <td>236</td>
+      <td>238</td>
     </tr>
     <tr>
       <td>2</td>
