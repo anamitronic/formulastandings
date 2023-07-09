@@ -4,13 +4,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>F. Vesti</td>
       <td>PREMA Racing</td>
-      <td>125</td>
+      <td>135</td>
     </tr>
     <tr>
       <td>2</td>
       <td>T. Pourchaire</td>
       <td>ART Grand Prix</td>
-      <td>105</td>
+      <td>114</td>
     </tr>
     <tr>
       <td>3</td>
@@ -22,7 +22,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>4</td>
       <td>O. Bearman</td>
       <td>PREMA Racing</td>
-      <td>81</td>
+      <td>84</td>
     </tr>
     <tr>
       <td>5</td>
@@ -32,27 +32,27 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>6</td>
+      <td>E. Fittipaldi</td>
+      <td>Rodin Carlin</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>D. Hauger</td>
       <td>MP Motorsport</td>
       <td>60</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>V. Martins</td>
       <td>ART Grand Prix</td>
-      <td>58</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>E. Fittipaldi</td>
-      <td>Rodin Carlin</td>
-      <td>57</td>
+      <td>60</td>
     </tr>
     <tr>
       <td>9</td>
       <td>J. Doohan</td>
       <td>Invicta Virtuosi Racing</td>
-      <td>54</td>
+      <td>60</td>
     </tr>
     <tr>
       <td>10</td>
@@ -82,7 +82,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>14</td>
       <td>A. Leclerc</td>
       <td>DAMS</td>
-      <td>36</td>
+      <td>37</td>
     </tr>
     <tr>
       <td>15</td>
@@ -94,7 +94,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>16</td>
       <td>I. Hadjar</td>
       <td>Hitech Pulse-Eight</td>
-      <td>24</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>17</td>
@@ -141,22 +141,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA Racing</td>
-      <td>206</td>
+      <td>219</td>
     </tr>
     <tr>
       <td>2</td>
       <td>ART Grand Prix</td>
-      <td>163</td>
+      <td>174</td>
     </tr>
     <tr>
       <td>3</td>
       <td>DAMS</td>
-      <td>137</td>
+      <td>138</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Rodin Carlin</td>
-      <td>105</td>
+      <td>110</td>
     </tr>
     <tr>
       <td>5</td>
@@ -176,12 +176,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>8</td>
       <td>Hitech Pulse-Eight</td>
-      <td>62</td>
+      <td>66</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Invicta Virtuosi Racing</td>
-      <td>54</td>
+      <td>60</td>
     </tr>
     <tr>
       <td>10</td>
