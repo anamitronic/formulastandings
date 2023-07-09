@@ -22,7 +22,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>4</td>
       <td>O. Bearman</td>
       <td>PREMA Racing</td>
-      <td>92</td>
+      <td>88</td>
     </tr>
     <tr>
       <td>5</td>
@@ -46,7 +46,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>8</td>
       <td>E. Fittipaldi</td>
       <td>Rodin Carlin</td>
-      <td>66</td>
+      <td>68</td>
     </tr>
     <tr>
       <td>9</td>
@@ -62,15 +62,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>11</td>
-      <td>K. Maini</td>
-      <td>Campos Racing</td>
+      <td>J. Daruvala</td>
+      <td>MP Motorsport</td>
       <td>49</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>J. Daruvala</td>
-      <td>MP Motorsport</td>
-      <td>47</td>
+      <td>K. Maini</td>
+      <td>Campos Racing</td>
+      <td>49</td>
     </tr>
     <tr>
       <td>13</td>
@@ -141,7 +141,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA Racing</td>
-      <td>227</td>
+      <td>223</td>
     </tr>
     <tr>
       <td>2</td>
@@ -156,12 +156,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>Rodin Carlin</td>
-      <td>132</td>
+      <td>134</td>
     </tr>
     <tr>
       <td>5</td>
       <td>MP Motorsport</td>
-      <td>107</td>
+      <td>109</td>
     </tr>
     <tr>
       <td>6</td>
