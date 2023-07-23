@@ -4,55 +4,55 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>G. Bortoleto</td>
       <td>Trident</td>
-      <td>138</td>
+      <td>144</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>J. Martí</td>
-      <td>Campos Racing</td>
-      <td>92</td>
+      <td>Z. O'Sullivan</td>
+      <td>PREMA Racing</td>
+      <td>101</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>G. Minì</td>
-      <td>Hitech Pulse-Eight</td>
-      <td>87</td>
+      <td>J. Martí</td>
+      <td>Campos Racing</td>
+      <td>100</td>
     </tr>
     <tr>
       <td>4</td>
       <td>P. Aron</td>
       <td>PREMA Racing</td>
-      <td>84</td>
+      <td>94</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>F. Colapinto</td>
-      <td>MP Motorsport</td>
-      <td>78</td>
+      <td>D. Beganovic</td>
+      <td>PREMA Racing</td>
+      <td>94</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>D. Beganovic</td>
-      <td>PREMA Racing</td>
-      <td>76</td>
+      <td>F. Colapinto</td>
+      <td>MP Motorsport</td>
+      <td>93</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Z. O'Sullivan</td>
-      <td>PREMA Racing</td>
-      <td>73</td>
+      <td>G. Minì</td>
+      <td>Hitech Pulse-Eight</td>
+      <td>87</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>L. Fornaroli</td>
+      <td>O. Goethe</td>
       <td>Trident</td>
-      <td>62</td>
+      <td>66</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>O. Goethe</td>
+      <td>L. Fornaroli</td>
       <td>Trident</td>
-      <td>54</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>10</td>
@@ -88,7 +88,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>15</td>
       <td>J. Edgar</td>
       <td>MP Motorsport</td>
-      <td>19</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>16</td>
@@ -100,7 +100,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>17</td>
       <td>M. Boya</td>
       <td>MP Motorsport</td>
-      <td>12</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>18</td>
@@ -188,13 +188,13 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>Trident</td>
-      <td>254</td>
+      <td>PREMA Racing</td>
+      <td>289</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>PREMA Racing</td>
-      <td>233</td>
+      <td>Trident</td>
+      <td>274</td>
     </tr>
     <tr>
       <td>3</td>
@@ -204,12 +204,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>Campos Racing</td>
-      <td>135</td>
+      <td>143</td>
     </tr>
     <tr>
       <td>5</td>
       <td>MP Motorsport</td>
-      <td>109</td>
+      <td>129</td>
     </tr>
     <tr>
       <td>6</td>
