@@ -80,14 +80,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>14</td>
-      <td>A. Leclerc</td>
-      <td>DAMS</td>
+      <td>I. Hadjar</td>
+      <td>Hitech Pulse-Eight</td>
       <td>39</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>I. Hadjar</td>
-      <td>Hitech Pulse-Eight</td>
+      <td>A. Leclerc</td>
+      <td>DAMS</td>
       <td>39</td>
     </tr>
     <tr>
