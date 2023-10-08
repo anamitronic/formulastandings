@@ -123,13 +123,13 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>21</td>
       <td>R. Nissany</td>
-      <td>PHM Racing by Charouz</td>
+      <td>PHM Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>23</td>
       <td>J. Mason</td>
-      <td>PHM Racing by Charouz</td>
+      <td>PHM Racing</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -190,7 +190,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>11</td>
-      <td>PHM Racing by Charouz</td>
+      <td>PHM Racing</td>
       <td>0</td>
     </tr>
   </tbody>
