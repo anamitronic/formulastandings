@@ -67,12 +67,6 @@ var tabledata=`<table border="1" class="dataframe">
       <td>60</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>J. Daruvala</td>
-      <td>MP Motorsport</td>
-      <td>59</td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>J. Crawford</td>
       <td>Hitech Pulse-Eight</td>
