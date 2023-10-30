@@ -126,6 +126,12 @@ var tabledata=`<table border="1" class="dataframe">
       <td>PHM Racing</td>
       <td>0</td>
     </tr>
+    <tr>
+      <td>24</td>
+      <td>F. Colapinto</td>
+      <td>MP Motorsport</td>
+      <td>0</td>
+    </tr>
   </tbody>
 </table>
 `;
