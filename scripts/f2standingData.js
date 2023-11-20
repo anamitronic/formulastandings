@@ -122,6 +122,12 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>24</td>
+      <td>P. Aron</td>
+      <td>Trident</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>F. Colapinto</td>
       <td>MP Motorsport</td>
       <td>0</td>
