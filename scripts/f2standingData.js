@@ -4,25 +4,25 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>T. Pourchaire</td>
       <td>ART Grand Prix</td>
-      <td>191</td>
+      <td>193</td>
     </tr>
     <tr>
       <td>2</td>
       <td>F. Vesti</td>
       <td>PREMA Racing</td>
-      <td>166</td>
+      <td>177</td>
     </tr>
     <tr>
       <td>3</td>
       <td>A. Iwasa</td>
       <td>DAMS</td>
-      <td>152</td>
+      <td>153</td>
     </tr>
     <tr>
       <td>4</td>
       <td>J. Doohan</td>
       <td>Invicta Virtuosi Racing</td>
-      <td>138</td>
+      <td>141</td>
     </tr>
     <tr>
       <td>5</td>
@@ -40,19 +40,19 @@ var tabledata=`<table border="1" class="dataframe">
       <td>7</td>
       <td>E. Fittipaldi</td>
       <td>Rodin Carlin</td>
-      <td>116</td>
+      <td>124</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>D. Hauger</td>
-      <td>MP Motorsport</td>
-      <td>102</td>
+      <td>R. Verschoor</td>
+      <td>Van Amersfoort Racing</td>
+      <td>108</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>R. Verschoor</td>
-      <td>Van Amersfoort Racing</td>
-      <td>102</td>
+      <td>D. Hauger</td>
+      <td>MP Motorsport</td>
+      <td>107</td>
     </tr>
     <tr>
       <td>10</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>14</td>
       <td>I. Hadjar</td>
       <td>Hitech Pulse-Eight</td>
-      <td>47</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>15</td>
@@ -141,42 +141,42 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>ART Grand Prix</td>
-      <td>322</td>
+      <td>324</td>
     </tr>
     <tr>
       <td>2</td>
       <td>PREMA Racing</td>
-      <td>296</td>
+      <td>307</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Rodin Carlin</td>
-      <td>212</td>
+      <td>220</td>
     </tr>
     <tr>
       <td>4</td>
       <td>DAMS</td>
-      <td>193</td>
+      <td>194</td>
     </tr>
     <tr>
       <td>5</td>
       <td>MP Motorsport</td>
-      <td>161</td>
+      <td>166</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Invicta Virtuosi Racing</td>
-      <td>146</td>
+      <td>149</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Van Amersfoort Racing</td>
-      <td>115</td>
+      <td>121</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Hitech Pulse-Eight</td>
-      <td>103</td>
+      <td>107</td>
     </tr>
     <tr>
       <td>9</td>
