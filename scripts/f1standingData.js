@@ -38,39 +38,39 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>7</td>
-      <td>Fernando Alonso ALO</td>
-      <td>Aston Martin Aramco Mercedes</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>8</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
       <td>18</td>
     </tr>
     <tr>
+      <td>8</td>
+      <td>Fernando Alonso ALO</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>16</td>
+    </tr>
+    <tr>
       <td>9</td>
+      <td>Lance Stroll STR</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>Lance Stroll STR</td>
-      <td>Aston Martin Aramco Mercedes</td>
-      <td>7</td>
-    </tr>
-    <tr>
       <td>11</td>
-      <td>Oliver Bearman BEA</td>
-      <td>Ferrari</td>
+      <td>Yuki Tsunoda TSU</td>
+      <td>RB Honda RBPT</td>
       <td>6</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Yuki Tsunoda TSU</td>
-      <td>RB Honda RBPT</td>
-      <td>4</td>
+      <td>Oliver Bearman BEA</td>
+      <td>Ferrari</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>13</td>
@@ -149,18 +149,18 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>4</td>
-      <td>Aston Martin Aramco Mercedes</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>5</td>
       <td>Mercedes</td>
       <td>26</td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>Aston Martin Aramco Mercedes</td>
+      <td>25</td>
+    </tr>
+    <tr>
       <td>6</td>
       <td>RB Honda RBPT</td>
-      <td>4</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>7</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='24/03/2024 09:03:51 UTC';
+document.getElementById('lastup').innerHTML='24/03/2024 09:31:00 UTC';
