@@ -4,55 +4,55 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>85</td>
+      <td>110</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Sergio Perez PER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>70</td>
+      <td>85</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Charles Leclerc LEC</td>
       <td>Ferrari</td>
-      <td>64</td>
+      <td>76</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>59</td>
+      <td>69</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>40</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Oscar Piastri PIA</td>
       <td>McLaren Mercedes</td>
-      <td>34</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>7</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>25</td>
+      <td>33</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Fernando Alonso ALO</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>24</td>
+      <td>31</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
-      <td>17</td>
+      <td>19</td>
     </tr>
     <tr>
       <td>10</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>Nico Hulkenberg HUL</td>
       <td>Haas Ferrari</td>
-      <td>3</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>14</td>
@@ -92,20 +92,20 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>16</td>
+      <td>Esteban Ocon OCO</td>
+      <td>Alpine Renault</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>Zhou Guanyu ZHO</td>
       <td>Kick Sauber Ferrari</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>Daniel Ricciardo RIC</td>
       <td>RB Honda RBPT</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>Esteban Ocon OCO</td>
-      <td>Alpine Renault</td>
       <td>0</td>
     </tr>
     <tr>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='21/04/2024 09:02:46 UTC';
+document.getElementById('lastup').innerHTML='21/04/2024 09:31:13 UTC';
