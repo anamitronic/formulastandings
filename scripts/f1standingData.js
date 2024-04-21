@@ -4,43 +4,43 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>77</td>
+      <td>85</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Sergio Perez PER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>64</td>
+      <td>70</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Charles Leclerc LEC</td>
       <td>Ferrari</td>
-      <td>59</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>55</td>
+      <td>59</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>37</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Oscar Piastri PIA</td>
       <td>McLaren Mercedes</td>
-      <td>32</td>
+      <td>34</td>
     </tr>
     <tr>
       <td>7</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>24</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>8</td>
@@ -52,7 +52,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>9</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
-      <td>10</td>
+      <td>17</td>
     </tr>
     <tr>
       <td>10</td>
@@ -135,22 +135,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>141</td>
+      <td>155</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Ferrari</td>
-      <td>120</td>
+      <td>129</td>
     </tr>
     <tr>
       <td>3</td>
       <td>McLaren Mercedes</td>
-      <td>69</td>
+      <td>74</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Mercedes</td>
-      <td>34</td>
+      <td>42</td>
     </tr>
     <tr>
       <td>5</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='15/04/2024 23:31:01 UTC';
+document.getElementById('lastup').innerHTML='21/04/2024 00:30:49 UTC';
