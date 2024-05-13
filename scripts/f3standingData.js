@@ -111,7 +111,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>19</td>
       <td>N. Bedrin</td>
-      <td>PHM AIX Racing</td>
+      <td>AIX Racing</td>
       <td>4</td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>24</td>
       <td>T. Inthraphuvasak</td>
-      <td>PHM AIX Racing</td>
+      <td>AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>28</td>
       <td>J. Dufek</td>
-      <td>PHM AIX Racing</td>
+      <td>AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
