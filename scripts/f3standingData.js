@@ -223,7 +223,7 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>8</td>
-      <td>PHM AIX Racing</td>
+      <td>AIX Racing</td>
       <td>4</td>
     </tr>
     <tr>
