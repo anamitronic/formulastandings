@@ -4,67 +4,67 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>136</td>
+      <td>161</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Sergio Perez PER</td>
-      <td>Red Bull Racing Honda RBPT</td>
-      <td>103</td>
+      <td>Charles Leclerc LEC</td>
+      <td>Ferrari</td>
+      <td>113</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Charles Leclerc LEC</td>
-      <td>Ferrari</td>
-      <td>98</td>
+      <td>Sergio Perez PER</td>
+      <td>Red Bull Racing Honda RBPT</td>
+      <td>107</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>83</td>
+      <td>101</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>83</td>
+      <td>93</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Oscar Piastri PIA</td>
       <td>McLaren Mercedes</td>
-      <td>41</td>
+      <td>53</td>
     </tr>
     <tr>
       <td>7</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>37</td>
+      <td>44</td>
     </tr>
     <tr>
       <td>8</td>
+      <td>Lewis Hamilton HAM</td>
+      <td>Mercedes</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>Fernando Alonso ALO</td>
       <td>Aston Martin Aramco Mercedes</td>
       <td>33</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Lewis Hamilton HAM</td>
-      <td>Mercedes</td>
-      <td>27</td>
-    </tr>
-    <tr>
       <td>10</td>
       <td>Yuki Tsunoda TSU</td>
       <td>RB Honda RBPT</td>
-      <td>14</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>11</td>
       <td>Lance Stroll STR</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>9</td>
+      <td>11</td>
     </tr>
     <tr>
       <td>12</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='19/05/2024 17:02:45 UTC';
+document.getElementById('lastup').innerHTML='19/05/2024 17:31:10 UTC';
