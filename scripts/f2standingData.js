@@ -16,7 +16,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>3</td>
       <td>Z. Maloney</td>
       <td>Rodin Motorsport</td>
-      <td>73</td>
+      <td>75</td>
     </tr>
     <tr>
       <td>4</td>
@@ -26,21 +26,21 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>5</td>
-      <td>G. Bortoleto</td>
-      <td>Invicta Racing</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>6</td>
       <td>D. Hauger</td>
       <td>MP Motorsport</td>
       <td>56</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>F. Colapinto</td>
       <td>MP Motorsport</td>
       <td>56</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>G. Bortoleto</td>
+      <td>Invicta Racing</td>
+      <td>55</td>
     </tr>
     <tr>
       <td>8</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>J. Martí</td>
       <td>Campos Racing</td>
-      <td>28</td>
+      <td>29</td>
     </tr>
     <tr>
       <td>14</td>
@@ -86,21 +86,21 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>15</td>
+      <td>A. Cordeel</td>
+      <td>Hitech Pulse-Eight</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>R. Miyata</td>
       <td>Rodin Motorsport</td>
       <td>19</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>O. Bearman</td>
       <td>PREMA Racing</td>
       <td>18</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>A. Cordeel</td>
-      <td>Hitech Pulse-Eight</td>
-      <td>17</td>
     </tr>
     <tr>
       <td>18</td>
@@ -141,12 +141,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Campos Racing</td>
-      <td>119</td>
+      <td>120</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Hitech Pulse-Eight</td>
-      <td>117</td>
+      <td>119</td>
     </tr>
     <tr>
       <td>3</td>
@@ -156,12 +156,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>Invicta Racing</td>
-      <td>110</td>
+      <td>105</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Rodin Motorsport</td>
-      <td>92</td>
+      <td>94</td>
     </tr>
     <tr>
       <td>6</td>
