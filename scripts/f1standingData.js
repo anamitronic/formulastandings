@@ -4,49 +4,49 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen VER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>219</td>
+      <td>227</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Lando Norris NOR</td>
       <td>McLaren Mercedes</td>
-      <td>150</td>
+      <td>156</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Charles Leclerc LEC</td>
       <td>Ferrari</td>
-      <td>148</td>
+      <td>150</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Carlos Sainz SAI</td>
       <td>Ferrari</td>
-      <td>116</td>
+      <td>120</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Sergio Perez PER</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>111</td>
+      <td>112</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Oscar Piastri PIA</td>
       <td>McLaren Mercedes</td>
-      <td>87</td>
+      <td>94</td>
     </tr>
     <tr>
       <td>7</td>
       <td>George Russell RUS</td>
       <td>Mercedes</td>
-      <td>81</td>
+      <td>86</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Lewis Hamilton HAM</td>
       <td>Mercedes</td>
-      <td>70</td>
+      <td>73</td>
     </tr>
     <tr>
       <td>9</td>
@@ -135,22 +135,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>330</td>
+      <td>339</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Ferrari</td>
-      <td>270</td>
+      <td>276</td>
     </tr>
     <tr>
       <td>3</td>
       <td>McLaren Mercedes</td>
-      <td>237</td>
+      <td>250</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Mercedes</td>
-      <td>151</td>
+      <td>159</td>
     </tr>
     <tr>
       <td>5</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='24/06/2024 23:31:07 UTC';
+document.getElementById('lastup').innerHTML='30/06/2024 00:34:14 UTC';
