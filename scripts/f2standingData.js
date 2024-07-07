@@ -16,43 +16,43 @@ var tabledata=`<table border="1" class="dataframe">
       <td>3</td>
       <td>G. Bortoleto</td>
       <td>Invicta Racing</td>
-      <td>85</td>
+      <td>90</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Z. Maloney</td>
       <td>Rodin Motorsport</td>
-      <td>75</td>
+      <td>83</td>
     </tr>
     <tr>
       <td>5</td>
       <td>F. Colapinto</td>
       <td>MP Motorsport</td>
-      <td>75</td>
+      <td>79</td>
     </tr>
     <tr>
       <td>6</td>
       <td>J. Crawford</td>
       <td>DAMS Lucas Oil</td>
-      <td>66</td>
+      <td>69</td>
     </tr>
     <tr>
       <td>7</td>
       <td>D. Hauger</td>
       <td>MP Motorsport</td>
-      <td>62</td>
+      <td>64</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>K. Maini</td>
-      <td>Invicta Racing</td>
-      <td>52</td>
+      <td>A. Antonelli</td>
+      <td>PREMA Racing</td>
+      <td>59</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>A. Antonelli</td>
-      <td>PREMA Racing</td>
-      <td>48</td>
+      <td>K. Maini</td>
+      <td>Invicta Racing</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>10</td>
@@ -116,15 +116,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>20</td>
-      <td>T. Barnard</td>
-      <td>AIX Racing</td>
+      <td>R. Stanek</td>
+      <td>Trident</td>
       <td>14</td>
     </tr>
     <tr>
       <td>21</td>
-      <td>R. Stanek</td>
-      <td>Trident</td>
-      <td>13</td>
+      <td>T. Barnard</td>
+      <td>AIX Racing</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>22</td>
@@ -140,38 +140,38 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
+      <td>Invicta Racing</td>
+      <td>148</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>MP Motorsport</td>
+      <td>143</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Campos Racing</td>
       <td>143</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>Hitech Pulse-Eight</td>
       <td>142</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>MP Motorsport</td>
-      <td>137</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Invicta Racing</td>
-      <td>137</td>
-    </tr>
-    <tr>
       <td>5</td>
-      <td>DAMS Lucas Oil</td>
-      <td>96</td>
+      <td>Rodin Motorsport</td>
+      <td>102</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Rodin Motorsport</td>
-      <td>94</td>
+      <td>DAMS Lucas Oil</td>
+      <td>99</td>
     </tr>
     <tr>
       <td>7</td>
       <td>PREMA Racing</td>
-      <td>76</td>
+      <td>87</td>
     </tr>
     <tr>
       <td>8</td>
@@ -191,7 +191,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>11</td>
       <td>Trident</td>
-      <td>30</td>
+      <td>31</td>
     </tr>
   </tbody>
 </table>
