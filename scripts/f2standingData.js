@@ -2,45 +2,45 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
+      <td>I. Hadjar</td>
+      <td>Campos Racing</td>
+      <td>133</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>P. Aron</td>
       <td>Hitech Pulse-Eight</td>
       <td>117</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>I. Hadjar</td>
-      <td>Campos Racing</td>
-      <td>106</td>
-    </tr>
-    <tr>
       <td>3</td>
-      <td>G. Bortoleto</td>
-      <td>Invicta Racing</td>
-      <td>90</td>
+      <td>Z. Maloney</td>
+      <td>Rodin Motorsport</td>
+      <td>101</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Z. Maloney</td>
-      <td>Rodin Motorsport</td>
-      <td>83</td>
+      <td>G. Bortoleto</td>
+      <td>Invicta Racing</td>
+      <td>98</td>
     </tr>
     <tr>
       <td>5</td>
       <td>F. Colapinto</td>
       <td>MP Motorsport</td>
-      <td>79</td>
+      <td>92</td>
     </tr>
     <tr>
       <td>6</td>
       <td>J. Crawford</td>
       <td>DAMS Lucas Oil</td>
-      <td>69</td>
+      <td>84</td>
     </tr>
     <tr>
       <td>7</td>
       <td>D. Hauger</td>
       <td>MP Motorsport</td>
-      <td>64</td>
+      <td>66</td>
     </tr>
     <tr>
       <td>8</td>
@@ -58,7 +58,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>E. Fittipaldi</td>
       <td>Van Amersfoort Racing</td>
-      <td>44</td>
+      <td>48</td>
     </tr>
     <tr>
       <td>11</td>
@@ -70,37 +70,37 @@ var tabledata=`<table border="1" class="dataframe">
       <td>12</td>
       <td>J. Martí</td>
       <td>Campos Racing</td>
-      <td>37</td>
+      <td>38</td>
     </tr>
     <tr>
       <td>13</td>
+      <td>O. Bearman</td>
+      <td>PREMA Racing</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>V. Martins</td>
+      <td>ART Grand Prix</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>J. Correa</td>
       <td>DAMS Lucas Oil</td>
       <td>30</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>O. Bearman</td>
-      <td>PREMA Racing</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>16</td>
       <td>A. Cordeel</td>
       <td>Hitech Pulse-Eight</td>
       <td>25</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>J. Dürksen</td>
       <td>AIX Racing</td>
       <td>24</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>V. Martins</td>
-      <td>ART Grand Prix</td>
-      <td>21</td>
     </tr>
     <tr>
       <td>18</td>
@@ -140,18 +140,18 @@ var tabledata=`<table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1</td>
-      <td>Invicta Racing</td>
-      <td>148</td>
+      <td>Campos Racing</td>
+      <td>171</td>
     </tr>
     <tr>
       <td>2</td>
       <td>MP Motorsport</td>
-      <td>143</td>
+      <td>158</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Campos Racing</td>
-      <td>143</td>
+      <td>Invicta Racing</td>
+      <td>156</td>
     </tr>
     <tr>
       <td>4</td>
@@ -161,27 +161,27 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>Rodin Motorsport</td>
-      <td>102</td>
+      <td>120</td>
     </tr>
     <tr>
       <td>6</td>
       <td>DAMS Lucas Oil</td>
-      <td>99</td>
+      <td>114</td>
     </tr>
     <tr>
       <td>7</td>
       <td>PREMA Racing</td>
-      <td>87</td>
+      <td>93</td>
     </tr>
     <tr>
       <td>8</td>
       <td>ART Grand Prix</td>
-      <td>63</td>
+      <td>73</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Van Amersfoort Racing</td>
-      <td>52</td>
+      <td>56</td>
     </tr>
     <tr>
       <td>10</td>
