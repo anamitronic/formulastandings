@@ -8,63 +8,63 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>2</td>
+      <td>L. Browning</td>
+      <td>Hitech Pulse-Eight</td>
+      <td>115</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>A. Lindblad</td>
       <td>PREMA Racing</td>
       <td>113</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>L. Browning</td>
-      <td>Hitech Pulse-Eight</td>
-      <td>112</td>
-    </tr>
-    <tr>
       <td>4</td>
       <td>L. Fornaroli</td>
       <td>Trident</td>
-      <td>93</td>
+      <td>97</td>
     </tr>
     <tr>
       <td>5</td>
+      <td>D. Beganovic</td>
+      <td>PREMA Racing</td>
+      <td>88</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>O. Goethe</td>
       <td>Campos Racing</td>
       <td>85</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>D. Beganovic</td>
-      <td>PREMA Racing</td>
-      <td>80</td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>C. Mansell</td>
       <td>ART Grand Prix</td>
-      <td>78</td>
+      <td>84</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>N. Tsolov</td>
-      <td>ART Grand Prix</td>
-      <td>50</td>
+      <td>T. Tramnitz</td>
+      <td>MP Motorsport</td>
+      <td>54</td>
     </tr>
     <tr>
       <td>9</td>
       <td>L. Van Hoepen</td>
       <td>ART Grand Prix</td>
-      <td>49</td>
+      <td>51</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>T. Tramnitz</td>
-      <td>MP Motorsport</td>
-      <td>47</td>
+      <td>N. Tsolov</td>
+      <td>ART Grand Prix</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>11</td>
       <td>S. Meguetounif</td>
       <td>Trident</td>
-      <td>42</td>
+      <td>43</td>
     </tr>
     <tr>
       <td>12</td>
@@ -86,97 +86,97 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>15</td>
+      <td>C. Voisin</td>
+      <td>Rodin Motorsport</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>M. Stenshorne</td>
       <td>Hitech Pulse-Eight</td>
       <td>26</td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>C. Voisin</td>
-      <td>Rodin Motorsport</td>
-      <td>22</td>
+      <td>17</td>
+      <td>N. Bedrin</td>
+      <td>AIX Racing</td>
+      <td>19</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>S. Ramos</td>
       <td>Trident</td>
       <td>18</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>S. Montoya</td>
       <td>Campos Racing</td>
       <td>16</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>T. Smith</td>
       <td>Van Amersfoort Racing</td>
       <td>12</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>C. Wurz</td>
       <td>Jenzer Motorsport</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>P. Wisnicki</td>
       <td>Rodin Motorsport</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
+      <td>T. Inthraphuvasak</td>
+      <td>AIX Racing</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>M. Zagazeta</td>
       <td>Jenzer Motorsport</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>J. Loake</td>
       <td>Rodin Motorsport</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>N. Bedrin</td>
-      <td>AIX Racing</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>26</td>
       <td>K. Sztuka</td>
       <td>MP Motorsport</td>
       <td>6</td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>M. Esterson</td>
       <td>Jenzer Motorsport</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>S. Floersch</td>
       <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>C. Shields</td>
       <td>Hitech Pulse-Eight</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>J. Dufek</td>
-      <td>AIX Racing</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <td>30</td>
-      <td>T. Inthraphuvasak</td>
+      <td>J. Dufek</td>
       <td>AIX Racing</td>
       <td>0</td>
     </tr>
@@ -189,32 +189,32 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA Racing</td>
-      <td>312</td>
+      <td>320</td>
     </tr>
     <tr>
       <td>2</td>
       <td>ART Grand Prix</td>
-      <td>177</td>
+      <td>185</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Trident</td>
-      <td>153</td>
+      <td>158</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Campos Racing</td>
+      <td>Hitech Pulse-Eight</td>
       <td>141</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Hitech Pulse-Eight</td>
-      <td>138</td>
+      <td>Campos Racing</td>
+      <td>141</td>
     </tr>
     <tr>
       <td>6</td>
       <td>MP Motorsport</td>
-      <td>82</td>
+      <td>89</td>
     </tr>
     <tr>
       <td>7</td>
@@ -224,17 +224,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>8</td>
       <td>Rodin Motorsport</td>
-      <td>40</td>
+      <td>45</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Jenzer Motorsport</td>
-      <td>23</td>
+      <td>AIX Racing</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>10</td>
-      <td>AIX Racing</td>
-      <td>8</td>
+      <td>Jenzer Motorsport</td>
+      <td>23</td>
     </tr>
   </tbody>
 </table>
